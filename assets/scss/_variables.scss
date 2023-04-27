@@ -1,16 +1,16 @@
 //site color variables
-$body-color: #fff;
-$primary-color: #EAA4A4;
-$secondary-color: #ADD6D2;
-$text-color: #9D9EA5;
-$text-color-dark: #00113E;
+$body-color: #fef9e7;
+$primary-color: #f5c40e;
+$secondary-color: #8C0343;
+$text-color: #ac890a; //30% shade of primary color
+$text-color-dark: #460222; //50% shade of secondary color
 $site-ease: cubic-bezier(0.36, 0.03, 0, 0.91);
-$gray: #F7F9FF;
-$dark-gray: #646569;
+$gray: #f4e6ec; //90% tint secondary color
+$dark-gray: #38011b; //60% shade secondary color
 
 // solid colors
-$white: #fff;
-$black: #000;
+$white: #fef9e7;// 90% tint of primary color
+$black: #1c010d; // 80% shade of secondary color
 
 // Font Variables
 $primary-font: 'Josefin Sans', sans-serif;
