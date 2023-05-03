@@ -8,15 +8,15 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
+    name    = "Startseite"
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
+    name    = "Über mich"
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "Angebot"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
@@ -24,7 +24,7 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Anfrage"
     url     = "contact"
     weight  = 5
 
@@ -38,18 +38,18 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  fabform  = "https://fabform.io/f/USAg2Jl" #todo
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
+    placeholder_first_name        = "Vorname"
+    placeholder_last_name         = "Nachname"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_project_type      = "Projekt Typ"
+    placeholder_about_the_project = "Darum es geht"
+    send_message                  = "Nachricht senden"
 
-    [[params.contactForm.projectType]]
+    [[params.contactForm.projectType]]#todo
       value = "gd"
       title  = "Graphics Design"
     [[params.contactForm.projectType]]
@@ -59,7 +59,7 @@ summarylength = 25
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "Mich kontaktieren" #todo
     url     = "contact"
   
 
@@ -67,17 +67,17 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "Von ♀︎ für ⚧"
-    primary_button        = "See Our Works"
+    heading               = "Die besten Lösungen für Deine Technik-Probleme"
+    tagline               = "IT und EDV Beratung VON ♀︎ FÜR ⚧"
+    primary_button        = "Mein Angebot"
     primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    secondary_button      = "Mich kontaktieren" #todo
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "MEIN ANGEBOT"
+    subtitle  = "Ich analysiere Deine Bedürfnisse und biete Dir einfache Lösungen oder Optimierungen an."
 
   [params.call_to_action]
     enable              = true
@@ -91,10 +91,10 @@ summarylength = 25
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      title   = "Kontakt Information"
+      address = "Bahnhofstr. 9, 55278 Hahnheim"
+      phone   = "+49 174 6509125"
+      email   = "breyer.anna@gmail.com" #todo
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"

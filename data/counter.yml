@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Traue keiner Statistik die du nicht selbst gefälscht hast"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Excel Tabellen"
+    number: "500"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Code Linien"
+    number: "9999"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Tee Tassen"
+    number: "432"
 
-  - title: "Telephone Talks"
+  - title: "Telefongespräche"
     number: "775"
