@@ -12,7 +12,7 @@
                     </div>
                     <div class="site-about-description">
                         <p>
-                            {{ .Description }}
+                            {{ .Params.company_description }}
                         </p>
                     </div>
                 </div>
@@ -21,11 +21,29 @@
     </div>
 </section>
 
+<section class="site-about-odd-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="site-about-odd-wrapper">
+                    <div class="site-about-odd-description">
+                        <p>
+                            {{ .Params.person_description }}
+                        </p>
+                    </div>
+                    <div class="site-about-odd-company">
+                        <img src="{{ .Params.person_image | absURL }}" alt="owner">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 {{ partial "expertise.html" . }}
 
 {{ partial "clients.html" . }}
-
-{{ partial "team.html" . }}
 
 {{ partial "call-to-action.html" . }}
 

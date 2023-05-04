@@ -1,0 +1,34 @@
+enable: true
+heading: "Expertise"
+subtext: "Diese Aufzählung ist nicht erschöpfend."
+counter_item:
+  - name: "Präsentationsprogramme"
+    list: "MS Powerpoint, Keynote"
+  - name: "Kalkulationsprogramme"
+    list: "MS Excel, Numbers"
+  - name: "Datenbankmanagementsysteme"
+    list: MS Access, MySQL
+  - name: E-Mail-Programme
+    list: Outlook, Thunderbird, Spark, Mail
+  - name: Betriebssysteme
+    list: Mac OS, Windows
+  - name: Programmiersprachen
+    list: PHP, HTML, CSS, JavaScript
+  - name: Textverarbeitung
+    list: MS Word, Pages
+  - name: Online meeting
+    list: Zoom, MS Teams, Slack, Google Meet
+  - name: Project Management Tools
+    list: Trello, Jira, Monday
+  - name: Documentation Tools
+    list: Confluence, Wiki
+  - name: Cloud Dienste
+    list: Dropbox, iCloud, Google Cloud
+  - name: Smartphone
+    list: iOS
+  - name: Smart Home
+    list: Meross Steckdosen, Tado Thermostate
+  - name: Social networks
+    list: LinkedIn
+  - name: Password Manager
+    list: iCloud Keychain, SafeInCloud
