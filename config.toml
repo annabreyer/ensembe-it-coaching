@@ -20,8 +20,8 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
+    name    = "Erfolgsgeschichten"
+    url     = "success"
     weight  = 4
   [[menu.nav]]
     name    = "Anfrage"
@@ -99,31 +99,25 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "Über mich"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Angebot"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
+          name = "Erfolgsgeschichten"
+          url  = "success" #todo rename URL
         [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "Kontakt"
           url  = "contact"
       # Footer Social Media
-      [params.footer.social]
-        title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "Medium"
+      [params.footer.legal]
+        title   = "Legales"
+        [[params.footer.legal.link]]
+          name = "Datenschutz"
           url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
+        [[params.footer.legal.link]]
+          name = "Impressum"
           url  = "#"
       # Footer Service
       [params.footer.service]
