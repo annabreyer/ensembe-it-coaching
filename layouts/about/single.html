@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<section class="site-single-header">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <div class="site-project-header-content">
+                    <h1>
+                        {{ .Title | safeHTML }}
+                    </h1>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                {{ if .Params.arrow}}
+                    <a href="#project" class="site-project-header-action scroll-to">
+                        <span>Scroll Down</span>
+                        <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
+                    </a>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="site-single-details">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <article class="site-blog-details">
+                    {{ .Content }}
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

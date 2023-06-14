@@ -1,5 +1,5 @@
 baseURL       = "http://example.org/"
-languageCode  = "en-us"
+languageCode  = "de-de"
 title         = "Roxo | Creative Design Agency"
 theme         = "roxo-hugo"
 summarylength = 25
@@ -20,13 +20,17 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
+    name    = "FAQ"
+    url     = "about/faq"
+    weight  = 4
+  [[menu.nav]]
     name    = "Erfolgsgeschichten"
     url     = "success"
-    weight  = 4
+    weight  = 5
   [[menu.nav]]
     name    = "Anfrage"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
@@ -105,6 +109,9 @@ summarylength = 25
           name = "Angebot"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
+          name = "FAQ"
+          url  = "about/faq"
+        [[params.footer.sitemap.link]]
           name = "Erfolgsgeschichten"
           url  = "success" #todo rename URL
         [[params.footer.sitemap.link]]
@@ -115,10 +122,10 @@ summarylength = 25
         title   = "Legales"
         [[params.footer.legal.link]]
           name = "Datenschutz"
-          url  = "#"
+          url  = "about/dsgvo"
         [[params.footer.legal.link]]
           name = "Impressum"
-          url  = "#"
+          url  = "about/impressum"
       # Footer Service
       [params.footer.service]
         title       = "We help brands:"
