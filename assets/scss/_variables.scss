@@ -4,13 +4,14 @@ $primary-color: #f5c40e;
 $secondary-color: #8C0343;
 $text-color: #ac890a; //30% shade of primary color
 $text-color-dark: #460222; //50% shade of secondary color
-$site-ease: cubic-bezier(0.36, 0.03, 0, 0.91);
-$gray: #f4e6ec; //90% tint secondary color
+$gray: #f5d6d7; ;// tint pink from oxo logo
 $dark-gray: #38011b; //60% shade secondary color
 
 // solid colors
 $white: #fef9e7;// 90% tint of primary color
 $black: #1c010d; // 80% shade of secondary color
+
+$site-ease: cubic-bezier(0.36, 0.03, 0, 0.91);
 
 // Font Variables
 $primary-font: 'Josefin Sans', sans-serif;

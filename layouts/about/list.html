@@ -28,7 +28,7 @@
                 <div class="site-about-odd-wrapper">
                     <div class="site-about-odd-description">
                         <p>
-                            {{ .Params.person_description }}
+                            {{ with .Params.person_description }}{{ . | safeHTML }}{{ end }}
                         </p>
                     </div>
                     <div class="site-about-odd-company">

@@ -1,132 +1,132 @@
 baseURL       = "http://example.org/"
 languageCode  = "de-de"
-title         = "Roxo | Creative Design Agency"
+title         = "Ensemble IT Coaching"
 theme         = "roxo-hugo"
 summarylength = 25
 
 # Site Menus
 [menu]
-  # Navbar Menus
-  [[menu.nav]]
-    name    = "Startseite"
-    url     = ""
-    weight  = 1
-  [[menu.nav]]
-    name    = "Über mich"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Angebot"
-    url     = "portfolio"
-    weight  = 3
-  [[menu.nav]]
-    name    = "FAQ"
-    url     = "about/faq"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Erfolgsgeschichten"
-    url     = "success"
-    weight  = 5
-  [[menu.nav]]
-    name    = "Anfrage"
-    url     = "contact"
-    weight  = 6
+# Navbar Menus
+[[menu.nav]]
+name    = "Startseite"
+url     = ""
+weight  = 1
+[[menu.nav]]
+name    = "Über mich"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "Angebot"
+url     = "portfolio"
+weight  = 3
+[[menu.nav]]
+name    = "FAQ"
+url     = "about/faq"
+weight  = 4
+[[menu.nav]]
+name    = "Erfolgsgeschichten"
+url     = "success"
+weight  = 5
+[[menu.nav]]
+name    = "Kontakt"
+url     = "contact"
+weight  = 6
 
 # Site Params
 [params]
-  logo = "images/logo.png"
-  dateFormat = "26 FEB 1994"
-  # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
-  # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl" #todo
+logo = "images/logo.png"
+dateFormat = "26 FEB 1994"
+# Meta data
+description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+author = "StaticMania"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# We're using formspree.io for form handling, paste your formspree url below
+fabform  = "https://fabform.io/f/USAg2Jl" #todo
 
-  # Contact Form
-  [params.contactForm]
-    placeholder_first_name        = "Vorname"
-    placeholder_last_name         = "Nachname"
-    placeholder_email             = "Email"
-    placeholder_project_type      = "Projekt Typ"
-    placeholder_about_the_project = "Darum es geht"
-    send_message                  = "Nachricht senden"
+# Contact Form
+[params.contactForm]
+placeholder_first_name        = "Vorname"
+placeholder_last_name         = "Nachname"
+placeholder_email             = "Email"
+placeholder_project_type      = "Projekt Typ"
+placeholder_about_the_project = "Darum es geht"
+send_message                  = "Nachricht senden"
 
-    [[params.contactForm.projectType]]#todo
-      value = "gd"
-      title  = "Graphics Design"
-    [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
-  
-  # Navbar Action Button
-  [params.navAction]
-    status  = true
-    name    = "Mich kontaktieren" #todo
-    url     = "contact"
-  
+[[params.contactForm.projectType]]#todo
+value = "gd"
+title  = "Graphics Design"
+[[params.contactForm.projectType]]
+value = "wd"
+title  = "Web Design"
 
-  # Banner Section
-  [params.banner]
-    enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Die besten Lösungen für Deine Technik-Probleme"
-    tagline               = "IT und EDV Beratung VON ♀︎ FÜR ⚧"
-    primary_button        = "Mein Angebot"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Mich kontaktieren" #todo
-    secondary_button_url  = "contact"
+# Navbar Action Button
+[params.navAction]
+status  = true
+name    = "Mich kontaktieren" #todo
+url     = "contact"
 
-  [params.portfolio]
-    enable    = true
-    title     = "MEIN ANGEBOT"
-    subtitle  = "Ich analysiere Deine Bedürfnisse und biete Dir einfache Lösungen oder Optimierungen an."
 
-  [params.call_to_action]
-    enable              = true
-    background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+# Banner Section
+[params.banner]
+enable                = true
+background_image      = "images/backgrounds/hero-background_blurry.jpg"
+heading               = "Hilfe zur Selbsthilfe für Deine Technik-Probleme"
+tagline               = "IT und EDV Coaching VON ♀︎ FÜR ⚧"
+primary_button        = "Mein Angebot"
+primary_button_url    = "portfolio"
+secondary_button      = "Mich kontaktieren" #todo
+secondary_button_url  = "contact"
 
-  [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "Kontakt Information"
-      address = "Bahnhofstr. 9, 55278 Hahnheim"
-      phone   = "+49 174 6509125"
-      email   = "breyer.anna@gmail.com" #todo
-      # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "Über mich"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Angebot"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "FAQ"
-          url  = "about/faq"
-        [[params.footer.sitemap.link]]
-          name = "Erfolgsgeschichten"
-          url  = "success" #todo rename URL
-        [[params.footer.sitemap.link]]
-          name = "Kontakt"
-          url  = "contact"
-      # Footer Social Media
-      [params.footer.legal]
-        title   = "Legales"
-        [[params.footer.legal.link]]
-          name = "Datenschutz"
-          url  = "about/dsgvo"
-        [[params.footer.legal.link]]
-          name = "Impressum"
-          url  = "about/impressum"
-      # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+[params.portfolio]
+enable    = true
+title     = "MEIN ANGEBOT"
+subtitle  = "Ich analysiere Deine Bedürfnisse und biete Dir einfache Lösungen oder Optimierungen an."
+
+[params.call_to_action]
+enable              = true
+background_image    = "images/backgrounds/rainbow-background.png"
+title               = "LET’S WORK TOGETHER"
+primary_button      = "Submit Query"
+primary_button_url  = "contact"
+secondary_button    = "Not Convinced"
+secondary_button_url = "portfolio"
+
+[params.footer]
+# Footer Contact Info
+[params.footer.contactInfo]
+title   = "Kontakt Information"
+address = "Bahnhofstr. 9, 55278 Hahnheim"
+phone   = "+49 174 6509125"
+email   = "breyer.anna@gmail.com" #todo
+# Footer Sitemap
+[params.footer.sitemap]
+title   = "Sitemap"
+[[params.footer.sitemap.link]]
+name = "Über mich"
+url  = "about"
+[[params.footer.sitemap.link]]
+name = "Angebot"
+url  = "portfolio"
+[[params.footer.sitemap.link]]
+name = "FAQ"
+url  = "about/faq"
+[[params.footer.sitemap.link]]
+name = "Erfolgsgeschichten"
+url  = "success" #todo rename URL
+[[params.footer.sitemap.link]]
+name = "Kontakt"
+url  = "contact"
+# Footer Social Media
+[params.footer.legal]
+title   = "Legales"
+[[params.footer.legal.link]]
+name = "Datenschutz"
+url  = "about/dsgvo"
+[[params.footer.legal.link]]
+name = "Impressum"
+url  = "about/impressum"
+# Footer Service
+[params.footer.service]
+title       = "We help brands:"
+description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"

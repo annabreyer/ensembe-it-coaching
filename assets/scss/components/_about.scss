@@ -83,6 +83,7 @@
   &-description{
     width: 60%;
     padding-left: 50px;
+    padding-block-end: 50px;
     @include desktop{
       width: 100%;
       padding: 0 38px;
