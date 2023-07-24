@@ -1,8 +1,11 @@
 baseURL       = "https://ensemble-it-coaching.onrender.com/"
-languageCode  = "de-de"
+languageCode  = "de-DE"
 title         = "Ensemble IT Coaching"
 theme         = "roxo-hugo"
 summarylength = 25
+
+relativeURLs = true
+
 
 # Site Menus
 [menu]
