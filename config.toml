@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://ensemble-it-coaching.onrender.com/"
 languageCode  = "de-de"
 title         = "Ensemble IT Coaching"
 theme         = "roxo-hugo"
