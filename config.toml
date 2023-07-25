@@ -1,4 +1,4 @@
-baseURL       = "https://ensemble-it-coaching.onrender.com/"
+baseURL       = "https://www.ensemble-it-coaching.de/"
 languageCode  = "de-DE"
 title         = "Ensemble IT Coaching"
 theme         = "roxo-hugo"
@@ -40,8 +40,8 @@ weight  = 6
 logo = "images/logo.png"
 dateFormat = "26 FEB 1994"
 # Meta data
-description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-author = "StaticMania"
+description = "Ensemble IT Coaching | "
+author = "Ensemble by Anna Breyer"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # We're using formspree.io for form handling, paste your formspree url below
@@ -75,7 +75,7 @@ url     = "contact"
 enable                = true
 background_image      = "images/backgrounds/hero-background_blurry.jpg"
 heading               = "Hilfe zur Selbsthilfe für Deine Technik-Probleme"
-tagline               = "IT und EDV Coaching VON ♀︎ FÜR ⚧"
+tagline               = "IT und EDV Coaching von Frau für Frauen*"
 primary_button        = "Mein Angebot"
 primary_button_url    = "portfolio"
 secondary_button      = "Mich kontaktieren" #todo
@@ -89,10 +89,10 @@ subtitle  = "Ich analysiere Deine Bedürfnisse und biete Dir einfache Lösungen 
 [params.call_to_action]
 enable              = true
 background_image    = "images/backgrounds/rainbow-background.png"
-title               = "LET’S WORK TOGETHER"
-primary_button      = "Submit Query"
+title               = "Lass uns zusammen arbeiten"
+primary_button      = "Anfrage absenden"
 primary_button_url  = "contact"
-secondary_button    = "Not Convinced"
+secondary_button    = "Noch nicht sicher?"
 secondary_button_url = "portfolio"
 
 [params.footer]
@@ -100,8 +100,8 @@ secondary_button_url = "portfolio"
 [params.footer.contactInfo]
 title   = "Kontakt Information"
 address = "Bahnhofstr. 9, 55278 Hahnheim"
-phone   = "+49 174 6509125"
-email   = "breyer.anna@gmail.com" #todo
+phone   = "+49 174 5124442"
+email   = "office@ensemble-it-coaching.de"
 # Footer Sitemap
 [params.footer.sitemap]
 title   = "Sitemap"
@@ -131,5 +131,5 @@ name = "Impressum"
 url  = "about/impressum"
 # Footer Service
 [params.footer.service]
-title       = "We help brands:"
-description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+title       = "Ich helfe sebstständigen Frauen*:"
+description = "bei Computer Fragen<br>von der Ohnmacht<br>in die Selbstermächtiging<br>zu kommen"
