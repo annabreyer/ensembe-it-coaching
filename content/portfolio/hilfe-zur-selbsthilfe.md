@@ -2,9 +2,9 @@
 title: "Hilfe zur Selbsthilfe"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/selbsthilfe_thumb.jpg"
+image: "images/projects/selbsthilfe-thumb.jpg"
 category: ["Einzelsession"]
-project_images: ["images/projects/selbsthilfe.jpg", "images/projects/remote-meeting.jpg",]
+project_images: ["images/projects/selbsthilfe.jpg", "images/projects/selbsthilfe-remote.jpg",]
 ---
 
 #### Dein Problem
