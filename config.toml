@@ -27,10 +27,6 @@ name    = "FAQ"
 url     = "about/faq"
 weight  = 4
 [[menu.nav]]
-#name    = "Erfolgsgeschichten"
-#url     = "success"
-#weight  = 5
-[[menu.nav]]
 name    = "Kontakt"
 url     = "contact"
 weight  = 5
@@ -114,9 +110,6 @@ url  = "portfolio"
 [[params.footer.sitemap.link]]
 name = "FAQ"
 url  = "about/faq"
-#[[params.footer.sitemap.link]]
-#name = "Erfolgsgeschichten"
-#url  = "success" #todo rename URL
 [[params.footer.sitemap.link]]
 name = "Kontakt"
 url  = "contact"
