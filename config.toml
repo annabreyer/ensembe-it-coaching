@@ -27,17 +27,17 @@ name    = "FAQ"
 url     = "about/faq"
 weight  = 4
 [[menu.nav]]
-name    = "Erfolgsgeschichten"
-url     = "success"
-weight  = 5
+#name    = "Erfolgsgeschichten"
+#url     = "success"
+#weight  = 5
 [[menu.nav]]
 name    = "Kontakt"
 url     = "contact"
-weight  = 6
+weight  = 5
 
 # Site Params
 [params]
-logo = "images/logo.png"
+logo = "images/logo-header.svg"
 dateFormat = "26 FEB 1994"
 # Meta data
 description = "Ensemble IT Coaching | "
@@ -75,7 +75,7 @@ url     = "contact"
 enable                = true
 background_image      = "images/backgrounds/hero-background_blurry.jpg"
 heading               = "Hilfe zur Selbsthilfe für Deine Technik-Probleme"
-tagline               = "IT und EDV Coaching von Frau für Frauen*"
+tagline               = "IT und EDV Coaching von Frau ♀︎ für Frauen* ⚧"
 primary_button        = "Mein Angebot"
 primary_button_url    = "portfolio"
 secondary_button      = "Mich kontaktieren" #todo
@@ -84,7 +84,7 @@ secondary_button_url  = "contact"
 [params.portfolio]
 enable    = true
 title     = "MEIN ANGEBOT"
-subtitle  = "Ich analysiere Deine Bedürfnisse und biete Dir einfache Lösungen oder Optimierungen an."
+subtitle  = "Damit du dich auf dein Kerngeschäft konzentrieren kannst statt Zeit mit Technik Fragen zu verlieren."
 
 [params.call_to_action]
 enable              = true
@@ -99,7 +99,7 @@ secondary_button_url = "portfolio"
 # Footer Contact Info
 [params.footer.contactInfo]
 title   = "Kontakt Information"
-address = "Bahnhofstr. 9, 55278 Hahnheim"
+address = "Bahnhofstr. 9, <br> 55278 Hahnheim"
 phone   = "+49 174 5124442"
 email   = "office@ensemble-it-coaching.de"
 # Footer Sitemap
@@ -114,9 +114,9 @@ url  = "portfolio"
 [[params.footer.sitemap.link]]
 name = "FAQ"
 url  = "about/faq"
-[[params.footer.sitemap.link]]
-name = "Erfolgsgeschichten"
-url  = "success" #todo rename URL
+#[[params.footer.sitemap.link]]
+#name = "Erfolgsgeschichten"
+#url  = "success" #todo rename URL
 [[params.footer.sitemap.link]]
 name = "Kontakt"
 url  = "contact"
