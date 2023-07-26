@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    {{- partial "head.html" . -}}
+    <body>
+        <main>
+            <section class="site-single-details">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                                <h3>Oh sie Seite die du suchst wurde weggehext.</h3>
+                            <div class="col-lg-8">
+                                <img src="{{ "/images/witch-cat.svg" | absURL }}" alt="witch-cat" />
+                            </div>
+                            <h1><a href="{{ .Site.BaseURL }}">Kehre zur Startseite zurück.</a></h1>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </body>
+</html>
