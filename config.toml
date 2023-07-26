@@ -36,34 +36,32 @@ weight  = 5
 logo = "images/logo-header.svg"
 dateFormat = "26 FEB 1994"
 # Meta data
-description = "Ensemble IT Coaching | "
+description = "Ensemble IT Coaching | "#todo
 author = "Ensemble by Anna Breyer"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
 # We're using formspree.io for form handling, paste your formspree url below
-fabform  = "https://fabform.io/f/USAg2Jl" #todo
+formspree  = "https://formspree.io/f/mnqknyrz"
 
 # Contact Form
 [params.contactForm]
 placeholder_first_name        = "Vorname"
 placeholder_last_name         = "Nachname"
 placeholder_email             = "Email"
-placeholder_project_type      = "Projekt Typ"
+placeholder_project_type      = "Typ"
 placeholder_about_the_project = "Darum es geht"
 send_message                  = "Nachricht senden"
 
-[[params.contactForm.projectType]]#todo
-value = "gd"
-title  = "Graphics Design"
 [[params.contactForm.projectType]]
-value = "wd"
-title  = "Web Design"
+value = "single"
+title  = "Hilfe zur Selbsthilfe"
+[[params.contactForm.projectType]]
+value = "group"
+title  = "Veranstaltung"
 
 # Navbar Action Button
 [params.navAction]
 status  = true
-name    = "Mich kontaktieren" #todo
-url     = "contact"
+name    = "Mich kontaktieren"
+url     = "kontakt"
 
 
 # Banner Section
@@ -74,8 +72,8 @@ heading               = "Hilfe zur Selbsthilfe für Deine Technik-Probleme"
 tagline               = "IT und EDV Coaching von Frau ♀︎ für Frauen* ⚧"
 primary_button        = "Mein Angebot"
 primary_button_url    = "portfolio"
-secondary_button      = "Mich kontaktieren" #todo
-secondary_button_url  = "contact"
+secondary_button      = "Mich kontaktieren"
+secondary_button_url  = "kontakt"
 
 [params.portfolio]
 enable    = true
@@ -83,12 +81,12 @@ title     = "MEIN ANGEBOT"
 subtitle  = "Damit du dich auf dein Kerngeschäft konzentrieren kannst statt Zeit mit Technik Fragen zu verlieren."
 
 [params.call_to_action]
-enable              = true
-background_image    = "images/backgrounds/rainbow-background.png"
-title               = "Lass uns zusammen arbeiten"
-primary_button      = "Anfragen"
-primary_button_url  = "kontakt"
-secondary_button    = "Noch nicht sicher?"
+enable               = true
+background_image     = "images/backgrounds/rainbow-background.png"
+title                = "Lass uns zusammen arbeiten"
+primary_button       = "Anfragen"
+primary_button_url   = "kontakt"
+secondary_button     = "Noch nicht sicher?"
 secondary_button_url = "portfolio"
 
 [params.footer]
