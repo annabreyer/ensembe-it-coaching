@@ -1,4 +1,5 @@
 ---
+type : about
 title: "Über mich"
 heading : "Hier kommt mein FIRMENNAME"
 company_description : "Unaufgeregte Hilfe für mehr Selbstermächtigung im Umgang mit Computern und Internet, Von ♀︎ für ⚧."

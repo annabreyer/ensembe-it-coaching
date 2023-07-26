@@ -16,7 +16,7 @@ url     = ""
 weight  = 1
 [[menu.nav]]
 name    = "Über mich"
-url     = "about"
+url     = "ueber-mich"
 weight  = 2
 [[menu.nav]]
 name    = "Angebot"
@@ -24,11 +24,11 @@ url     = "portfolio"
 weight  = 3
 [[menu.nav]]
 name    = "FAQ"
-url     = "about/faq"
+url     = "ueber-mich/faq"
 weight  = 4
 [[menu.nav]]
 name    = "Kontakt"
-url     = "contact"
+url     = "kontakt"
 weight  = 5
 
 # Site Params
@@ -86,8 +86,8 @@ subtitle  = "Damit du dich auf dein Kerngeschäft konzentrieren kannst statt Zei
 enable              = true
 background_image    = "images/backgrounds/rainbow-background.png"
 title               = "Lass uns zusammen arbeiten"
-primary_button      = "Anfrage absenden"
-primary_button_url  = "contact"
+primary_button      = "Anfragen"
+primary_button_url  = "kontakt"
 secondary_button    = "Noch nicht sicher?"
 secondary_button_url = "portfolio"
 
@@ -103,25 +103,25 @@ email   = "office@ensemble-it-coaching.de"
 title   = "Sitemap"
 [[params.footer.sitemap.link]]
 name = "Über mich"
-url  = "about"
+url  = "ueber-mich"
 [[params.footer.sitemap.link]]
 name = "Angebot"
 url  = "portfolio"
 [[params.footer.sitemap.link]]
 name = "FAQ"
-url  = "about/faq"
+url  = "ueber-mich/faq"
 [[params.footer.sitemap.link]]
 name = "Kontakt"
-url  = "contact"
+url  = "kontakt"
 # Footer Social Media
 [params.footer.legal]
 title   = "Legales"
 [[params.footer.legal.link]]
 name = "Datenschutz"
-url  = "about/dsgvo"
+url  = "ueber-mich/dsgvo"
 [[params.footer.legal.link]]
 name = "Impressum"
-url  = "about/impressum"
+url  = "ueber-mich/impressum"
 # Footer Service
 [params.footer.service]
 title       = "Ich helfe sebstständigen Frauen*:"
