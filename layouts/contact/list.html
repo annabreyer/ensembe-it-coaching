@@ -9,11 +9,24 @@
                 <h2 class="site-contact-subtitle">
                     {{ .Params.quote | safeHTML }}
                 </h2>
-                <div class="site-contact-email">
-                    <p>
-                        <span>{{ .Params.contact_email | safeHTML }}</span>
-                        <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
-                    </p>
+                <div class="site-contact-links">
+                    <div class="site-contact-calendly">
+                        <p>
+                            <span>{{ .Params.calendly_text | safeHTML }}</span>
+                        </p>
+                        <p><i class="fa fa-calendar"></i>
+                        <a href="{{ .Params.calendly_link }}" target="_blank">Calendly</a>
+                        </p>
+                    </div>
+                    <div class="site-contact-email">
+                        <p>
+                            <span>{{ .Params.contact_email | safeHTML }}</span><br>
+                        </p>
+                        <p>
+                        <i class="fa fa-envelope"></i>
+                            <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+                        </p>
+                    </div>
                 </div>
             </div>
                 <div class="col-lg-6 ml-auto">
