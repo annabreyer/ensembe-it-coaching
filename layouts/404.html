@@ -3,15 +3,22 @@
     {{- partial "head.html" . -}}
     <body>
         <main>
-            <section class="site-single-details">
+            <section class="site-404">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-10">
-                                <h3>Oh sie Seite die du suchst wurde weggehext.</h3>
-                            <div class="col-lg-8">
+                            <p>Du suchts etwas das es nicht gibt. Ob unsere kleine Hexenkatze es wohl weggezaubert hat?</p>
+                            <div>
                                 <img src="{{ "/images/witch-cat.svg" | absURL }}" alt="witch-cat" />
                             </div>
-                            <h1><a href="{{ .Site.BaseURL }}">Kehre zur Startseite zurück.</a></h1>
+                            <a
+                                    class="nav-link btn btn-sm btn-primary btn-sm-rounded"
+                                    href="{{ .Site.BaseURL }}"
+                            >
+              <span class="btn-area">
+                  Zurück zur Startseite
+                </span>
+                            </a>
                         </div>
                     </div>
                 </div>
