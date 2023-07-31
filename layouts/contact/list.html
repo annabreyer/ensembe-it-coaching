@@ -15,7 +15,7 @@
                             <span>{{ .Params.calendly_text | safeHTML }}</span>
                         </p>
                         <p><i class="fa fa-calendar"></i>
-                        <a href="{{ .Params.calendly_link }}" target="_blank">Calendly</a>
+                            <a href="{{ .Params.calendly_link }}" target="_blank">Calendly</a>
                         </p>
                     </div>
                     <div class="site-contact-email">
@@ -23,65 +23,65 @@
                             <span>{{ .Params.contact_email | safeHTML }}</span><br>
                         </p>
                         <p>
-                        <i class="fa fa-envelope"></i>
+                            <i class="fa fa-envelope"></i>
                             <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
                         </p>
                     </div>
                 </div>
             </div>
-                <div class="col-lg-6 ml-auto">
-                    <div class="site-contact-form">
-                        <h4>{{ .Params.form_heading }}</h4>
-                        <form id="contact-form" action="{{ .Site.Params.formspree }}" method="post">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <input type="text" class="form-control" name="first-name" id="first-name"
-                                           placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
+            <div class="col-lg-6 ml-auto">
+                <div class="site-contact-form">
+                    <h4>{{ .Params.form_heading }}</h4>
+                    <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <input type="text" class="form-control" name="first-name" id="first-name"
+                                       placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
+                            </div>
+                            <div class="col-lg-6">
+                                <input type="text" class="form-control" name="last-name" id="last-name"
+                                       placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}" required>
+                            </div>
+                            <div class="col-lg-6">
+                                <input type="email" class="form-control" name="email" id="email"
+                                       placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="select-wrapper">
+                                    <select class="form-control" id="projectType" name="project-type" required>
+                                        <option value="" selected disabled hidden>{{
+                                            .Site.Params.contactForm.placeholder_project_type }}
+                                        </option>
+                                        {{ range .Site.Params.contactForm.projectType }}
+                                        <option value="{{ .value }}">{{ .title }}</option>
+                                        {{ end }}
+                                    </select>
                                 </div>
-                                <div class="col-lg-6">
-                                    <input type="text" class="form-control" name="last-name" id="last-name"
-                                           placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}" required>
-                                </div>
-                                <div class="col-lg-6">
-                                    <input type="email" class="form-control" name="email" id="email"
-                                           placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="select-wrapper">
-                                        <select class="form-control" id="projectType" name="project-type" required>
-                                            <option value="" selected disabled hidden>{{
-                                                .Site.Params.contactForm.placeholder_project_type }}
-                                            </option>
-                                            {{ range .Site.Params.contactForm.projectType }}
-                                            <option value="{{ .value }}">{{ .title }}</option>
-                                            {{ end }}
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-12">
+                            </div>
+                            <div class="col-12">
                                 <textarea class="form-control" id="aboutProject" name="about-project" rows="6"
                                           placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
-                                </div>
-                                <div class="col-12">
-                                    <button formtarget="_blank" type="submit" class="btn btn-primary"
-                                            id="contact-form-button">
-                  <span class="btn-area">
-                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
-                      {{ .Site.Params.contactForm.send_message }}
-                    </span>
-                  </span>
-                                    </button>
-                                </div>
-                                <p id="contact-form-status"></p>
                             </div>
-                        </form>
-                        <p class="contact-form-generator">
-                            <span>{{ .Params.gdpr_disclaimer | safeHTML }}</span>
-                            <a href="https://formspree.io/legal/privacy-policy." target="_blank">Formspree</a>
-                        </p>
-                    </div>
+                            <div class="col-12">
+                                <button formtarget="_blank" type="submit" class="btn btn-primary"
+                                        id="contact-form-button">
+                                  <span class="btn-area">
+                                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
+                                      {{ .Site.Params.contactForm.send_message }}
+                                    </span>
+                                  </span>
+                                </button>
+                            </div>
+                            <p id="contact-form-status"></p>
+                        </div>
+                    </form>
+                    <p class="contact-form-generator">
+                        <span>{{ .Params.gdpr_disclaimer | safeHTML }}</span>
+                        <a href="https://fabform.io/a/privacy-policy" target="_blank">Fabform</a>
+                    </p>
                 </div>
             </div>
+        </div>
     </div>
 </section>
 {{ end }}

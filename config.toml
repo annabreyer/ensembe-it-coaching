@@ -39,7 +39,8 @@ dateFormat = "26 FEB 1994"
 description = "Ensemble IT Coaching | "#todo
 author = "Ensemble by Anna Breyer"
 # We're using formspree.io for form handling, paste your formspree url below
-formspree  = "https://formspree.io/f/mnqknyrz"
+#formspree  = "https://formspree.io/f/mnqknyrz"
+fabform = "https://fabform.io/f/NjpP9iZ"
 
 # Contact Form
 [params.contactForm]
