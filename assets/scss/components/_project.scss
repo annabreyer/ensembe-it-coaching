@@ -201,6 +201,14 @@
       margin-bottom: 50px;
       p{
         margin-bottom: 30px;
+        img{
+          max-height: 250px;
+          display: block;
+          margin: 0 auto;
+        }
+      }
+      li{
+        font-size: 20px;
       }
     }
     &-action{

@@ -22,12 +22,16 @@ jeder Teilnehmerin auch Zeit widmen kann.
 Du weisst, dass du eine Webseite brauchst, aber hast keine Ahnung wo du anfangen sollst? Dann ist dieses Thema sicher interessant für dich.
 Danach kannst du besser entscheiden, ob und wie du dir Hilfe holst oder es selbst machst. 
 
+![stars](/images/stars.svg)
+
 
 #### Excel Grundlagen 
 
 Wir alle müssen mit Excel arbeiten. Aber oft ist es uns ein Buch mit sieben Siegeln. In dieser Reihe zeige ich dir die Grundlagen
 in Excel. Wie ist es aufgebaut, die wird formatiert, welche Kniffe und Tricks helfen Zeit zu sparen. 
 Auch eine Einleitung zu Formeln und Verweisen gibt es.
+
+![stars](/images/stars.svg)
 
 
 #### Weitere mögliche Themen 
@@ -37,7 +41,7 @@ Auch eine Einleitung zu Formeln und Verweisen gibt es.
 - Internetsicherheit & Passwortmanager
 - Digitale Unternehmensgründung
 
-![dots](/images/dots.png)
+![stars](/images/stars.svg)
 
 ### Online oder IRL (in real life)
 
