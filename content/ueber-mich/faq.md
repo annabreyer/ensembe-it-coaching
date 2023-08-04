@@ -46,8 +46,7 @@ Leider ist diese Wahl nicht ganz unproblematisch.
 > Als Frauen sind alle jene Menschen zu verstehen, die sich selber als Frauen definieren. Das gilt selbstverständlich 
 auch für trans, inter oder nicht-binäre Frauen. Um diese sichtbar zu machen, braucht es kein (*), außer um sie erneut 
 als "anders" als cis-Frauen zu markieren. Der Prozess, von außen als „Frau“ definiert zu werden, wie in der obigen 
-Formulierung, wiederholt eine gewaltförmige Einordnung von Menschen, die keine Frauen sind.
-> [Quelle]("https://www.ash-berlin.eu/fileadmin/Daten/Einrichtungen/Frauenbeauftragte/Downloads/Die_Crux_mit_dem_Sternchen.pdf")
+Formulierung, wiederholt eine gewaltförmige Einordnung von Menschen, die keine Frauen sind. [Quelle ASH Berlin](https://www.ash-berlin.eu/fileadmin/Daten/Einrichtungen/Frauenbeauftragte/Downloads/Die_Crux_mit_dem_Sternchen.pdf", "Quelle ASH Berlin")
 
 Da ich aber "Frau*" nicht durch "Nicht Mann" ersetzen möchte habe ich diese Formulierung gewählt. 
 
