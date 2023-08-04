@@ -5,35 +5,49 @@ arrow: true
 ---
 #### Richtet sich der Dienst nur an Frauen*?
 
-Jein. Er richtet sich in allererster Linie an Frauen*, denn statistisch gesehen haben Frauen* eine niedrigere Affinität zu Computern und dem drum herum.  
-Wenn Du keine Frau* bist und Hilfe brauchst, schreib mir einfach und wir schauen was ich für Dich tun kann.  
+Diese Frage wird mir oft gestellt. Ganz besonders von Männern. Denn auch Männer brauchen Hilfe. Und ich möchte niemanden diskriminieren. 
+Trotzdem betreue ich in allererster Linie an Frauen*, denn statistisch gesehen haben Frauen* eine niedrigere Affinität zu Computern und dem drum herum. 
+Und somit einen grösseren Aufholbedarf. Auch sind es Frauen die oft in Berufen arbeiten die wenig mit Computern zu tun haben. 
+Wenn Du keine Frau* bist und Hilfe brauchst, schreib mir einfach und wir schauen, was ich für Dich tun kann.  
 Das gilt auch für Vereine und andere nicht gewinnorientierte Organisationen.
 
-#### Gibt es Vor-Ort Termine?
+![dots](/images/dots.png)
 
-Sofern es für mich verkehrstechnisch möglich ist können wir einen vor Ort Termin bei Dir vereinbaren. Ich stelle dann eine Anreisepauschale in Rechnung.
+#### Woher weiß ich, ob du mir bei meinem Problem helfen kannst?
 
+Das kann ich dir erst sagen, wenn du mir dein Problem geschildert hast. Über das [Kontaktformular](/kontakt) kannst du mich ganz einfach erreichen. 
 
-#### Gibt es online Termine?
+![dots](/images/dots.png)
 
-Durch Remote Access (Fernwartung) Software kann ich direkt auf deinen Computer zugreifen oder einfach nur schauen was du machst und dich in die richtige Richtung dirigieren.
+#### Ich habe keine Zeit mich selbst um das Problem zu kümmern, kannst du das für mich tun?
 
-#### Warum gibt es nur so wenig Plätze bei den Veranstaltungen?
+Leider nicht. Mein Schwerpunkt liegt darin dir zu helfen deine Computer Probleme selbst lösen zu können. Nur bei besonders
+komplexen Problemen übernehme ich das für dich.
 
-Ich möchte bei den Veranstaltung jeder Teilnehmerin* genügend Zeit widmen können ohne dass zu lange für alle wird. Daher ist die Teilnehmerzahl limitiert. Allerdings versuche ich mehrerer Termine anzubieten so dass jede* die möchte dabei sein kann.
+![dots](/images/dots.png)
 
-#### Wie läuft ein Termin ab?
+#### Berätst du auch bei Anschaffungen?
 
-Im Voraus schilderst Du mir Dein Problem. Dazu benutzt Du bitte “dieses Dokument” [link zum onboarding PDF]. Dadurch habe ich dann die nötigen Informationen.
-Innerhalb von 72 Stunden bekommst du von mir Rückmeldung wie lange es meiner Einschätzung nach dauern kann das Problem zu beheben und einen Link zu meinem Kalender, damit du einen Termin ausmachen kannst. Die Bestätigung für den Termin bekommst du innerhalb von 24 Stunden. Bei online Terminen bekommst du von mir einen Link zu einer Software geschickt die du installieren musst damit ich auf deinen Rechner zugreifen kann. Zusammen mit dem Zugangsdaten für den Termin.
+Das hängt eindeutig vom Kontext ab. Wenn es um Geräte geht, wende dich bitte an kompetente Ansprechpartner bei den einschlägigen Händlern. 
+Bei Programmen, Apps und Software hängt es davon ab, ob ich mich in dem Bereich etwas auskenne. Sollten wir während einer Beratung
+feststellen, dass dir zur Lösung deiner Problematik eine App fehlt, kann ich die Recherche übernehmen, allerdings triffst du die 
+endgültige Kaufentscheidung. 
+Dasselbe gilt für Dienstleistungen. Fallen sie in meinen Kompetenzbereich gebe ich dir gerne meine Meinung dazu. Aber 
+auch hier bleibt die Entscheidung ganz bei dir. 
 
+![dots](/images/dots.png)
 
-#### Wie funktioniert die Hilfe Hotline?
+#### Warum hast du ein * hinter dem Wort Frau?
 
-Die Hilfe Hotline ist für akute Probleme gedacht, die sich schnell (max 15min) lösen lassen. Sie ist zu bestimmten Uhrzeiten erreichbar, allerdings nur für Abonnentinnen*.
-Sollte dein Problem mehr Zeit in Anspruch nehmen, dann machen wir zeitnah einen Termin aus.
-Wenn Du kein Abo für die Hilfe Hotline abschlossen hast, wird dein Problem über den normalen Modus abgewickelt. 
+Der Asterisk (*) hinter "Frauen" soll verdeutlichen, dass sich der Begriff „Frau*“ hier auf alle Personen bezieht, 
+„die sich unter der Bezeichnung "Frau" definieren, definiert werden und/oder sich sichtbar gemacht sehen“.
+Leider ist diese Wahl nicht ganz unproblematisch. 
 
+> Als Frauen sind alle jene Menschen zu verstehen, die sich selber als Frauen definieren. Das gilt selbstverständlich 
+auch für trans, inter oder nicht-binäre Frauen. Um diese sichtbar zu machen, braucht es kein (*), außer um sie erneut 
+als "anders" als cis-Frauen zu markieren. Der Prozess, von außen als „Frau“ definiert zu werden, wie in der obigen 
+Formulierung, wiederholt eine gewaltförmige Einordnung von Menschen, die keine Frauen sind.
+> [Quelle]("https://www.ash-berlin.eu/fileadmin/Daten/Einrichtungen/Frauenbeauftragte/Downloads/Die_Crux_mit_dem_Sternchen.pdf")
 
-
+Da ich aber "Frau*" nicht durch "Nicht Mann" ersetzen möchte habe ich diese Formulierung gewählt. 
 
