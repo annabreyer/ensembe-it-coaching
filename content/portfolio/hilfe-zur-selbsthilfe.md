@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/selbsthilfe-thumb.jpg"
 category: ["Einzelsession"]
-project_images: ["images/projects/selbsthilfe.jpg", "images/projects/selbsthilfe-remote.jpg",]
+project_images: ["images/projects/selbsthilfe.jpg", "images/projects/selbsthilfe-2.jpg",]
 ---
 
 Wir kennen es alle, du sitzt for dem Computer und er macht einfach nicht was du von ihm möchtest. Du bist mit deinem 
@@ -14,8 +14,6 @@ Jetzt weisst du es. Ich bin bei Problemen bei denen du dir die Haare raufst dein
 und helfe dir es selbst zu lösen. 
 
 ![dots](/images/dots.png)
-
-![hilfe-selbsthilfe-grafik](/images/projects/hilfe-selbsthilfe-grafik.svg)
 
 
 #### Beschreibung des Problems
