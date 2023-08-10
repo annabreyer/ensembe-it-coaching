@@ -18,17 +18,5 @@ counter_item:
     list: MS Word, Pages
   - name: Online meeting
     list: Zoom, MS Teams, Slack, Google Meet
-  - name: Project Management Tools
-    list: Trello, Jira, Monday
-  - name: Documentation Tools
-    list: Confluence, Wiki
-  - name: Cloud Dienste
-    list: Dropbox, iCloud, Google Cloud
-  - name: Smartphone
-    list: iOS
-  - name: Smart Home
-    list: Meross Steckdosen, Tado Thermostate
-  - name: Social networks
-    list: LinkedIn
-  - name: Password Manager
-    list: iCloud Keychain, SafeInCloud
+  - name: Anderes
+    list: Cloud Dienste, iOS (iPhone), Password Manager, Trello

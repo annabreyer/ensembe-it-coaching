@@ -1,5 +1,5 @@
-enable : true
-heading : "Traue keiner Statistik die du nicht selbst gefälscht hast"
+enable : false
+heading : "Traue keiner Statistik die Du nicht selbst gefälscht hast"
 counter_item: 
   - title: "Excel Tabellen"
     number: "500"

@@ -19,8 +19,8 @@ jeder Teilnehmerin auch Zeit widmen kann.
 ` `
 #### Webseite - Wo, Wie, Was?
 
-Du weisst, dass du eine Webseite brauchst, aber hast keine Ahnung wo du anfangen sollst? Dann ist dieses Thema sicher interessant für dich.
-Danach kannst du besser entscheiden, ob und wie du dir Hilfe holst oder es selbst machst. 
+Du weisst, dass Du eine Webseite brauchst, aber hast keine Ahnung wo Du anfangen sollst? Dann ist dieses Thema sicher interessant für Dich.
+Danach kannst Du besser entscheiden, ob und wie Du dir Hilfe holst oder es selbst machst. 
 
 ![stars](/images/stars.svg)
 

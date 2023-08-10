@@ -36,7 +36,7 @@ weight  = 5
 logo = "images/logo-header.svg"
 dateFormat = "26 FEB 1994"
 # Meta data
-description = "Ensemble IT Coaching | "#todo
+description = "Ensemble IT Coaching | IT und EDV Coaching von Frau ♀︎ für Frauen* ⚧"
 author = "Ensemble by Anna Breyer"
 # We're using formspree.io for form handling, paste your formspree url below
 #formspree  = "https://formspree.io/f/mnqknyrz"
@@ -79,7 +79,7 @@ secondary_button_url  = "kontakt"
 [params.portfolio]
 enable    = true
 title     = "MEIN ANGEBOT"
-subtitle  = "Damit du dich auf dein Kerngeschäft konzentrieren kannst statt Zeit mit Technik Fragen zu verlieren."
+subtitle  = "Damit Du Dich auf Dein Kerngeschäft konzentrieren kannst statt Zeit mit Technik Fragen zu verlieren."
 
 [params.call_to_action]
 enable               = true

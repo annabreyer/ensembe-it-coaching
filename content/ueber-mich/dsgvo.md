@@ -22,7 +22,7 @@ finden Sie unter [https://formspree.io/legal/privacy-policy] (https://formspree.
 
 Formspree Formular
 Wir verwenden Formspree für unser Kontaktformular auf unserer Website. Die Verwendung erfolgt ohne Authentisierung. 
-Welche Daten von Formspree erfasst und wofür sie verwendet werden, kannst du hier nachlesen: https://formspree.io/legal/privacy-policy.
+Welche Daten von Formspree erfasst und wofür sie verwendet werden, kannst Du hier nachlesen: https://formspree.io/legal/privacy-policy.
 
 
 

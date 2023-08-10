@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8">
-                <div class="site-project-header-content">
+                <div class="site-about-header-content">
                     <h1>
                         {{ .Title | safeHTML }}
                     </h1>
@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-4">
                 {{ if .Params.arrow}}
-                    <a href="#project" class="site-project-header-action scroll-to">
+                    <a href="#about" class="site-about-header-action scroll-to">
                         <span>Nach Unten</span>
                         <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
                     </a>
@@ -26,8 +26,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
-                <article class="site-blog-details">
-                    {{ .Content }}
+                <article class="site-about-details">
+                    {{ .Content | safeHTML }}
                 </article>
             </div>
         </div>
