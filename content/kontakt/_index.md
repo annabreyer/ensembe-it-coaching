@@ -9,7 +9,6 @@ email          : kontakt@ensemble-it-coaching.de
 calendly_link  : https://calendly.com/breyer-anna
 calendly_text  : "Du möchtest ein Gespräch mit mir buchen? <br>Das kannst Du hier tun: "
 form_heading   : "Womit kann ich dir helfen?"
-gdpr_disclaimer: "Dieses Kontaktformular verwendet Fabform. Die Verwendung erfolgt ohne Authentisierung. Die Daten werden per Email an mich weitergeleitet. 
-Welche Daten sonst von Fabform erfasst werden und wofür sie verwendet werden, kannst Du hier nachlesen:"
+gdpr_disclaimer: "Dieses Kontaktformular verwendet Formspree. Um Ihnen die Funktionalität des Kontaktformulars zur Verfügung zu stellen, senden wir Ihre eingegebenen Kontaktdaten an Formspree. Diese Daten werden dort verarbeitet, gespeichert und per E-Mail an uns weitergegeben. Mehr dazu in der Datenschutzerklärung. "
 ---
 

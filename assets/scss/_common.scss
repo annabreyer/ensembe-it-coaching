@@ -68,3 +68,10 @@ select.form-control{
 textarea.form-control{
   height: auto;
 }
+p img[alt~="dots"] {
+  display: block;
+  width: 40%;
+  margin: auto ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
