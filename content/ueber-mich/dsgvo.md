@@ -184,14 +184,14 @@ Wenn Sie uns anrufen, werden die Anrufdaten auf dem jeweiligen Endgerät und bei
 ##### E-Mail
 Wenn Sie mit uns per E-Mail kommunizieren, werden Daten gegebenenfalls auf dem jeweiligen Endgerät (Computer, Laptop, Smartphone,&#8230;) gespeichert und es kommt zur Speicherung von Daten auf dem E-Mail-Server. Die Daten werden gelöscht, sobald der Geschäftsfall beendet wurde und es gesetzliche Vorgaben erlauben.  
 ##### Online Formulare
-Diese Website nutzt Formspree, einen Webdienst der Website {{< newtabref  href="https://formspree.io/" title="https://formspree.io/" >}}
-(nachfolgend „Formspree“). Um Ihnen die Funktionalität des Kontaktformulars zur Verfügung zu stellen, senden wir Ihre eingegebenen 
-Kontaktdaten an Formspree. Diese Daten werden dort verarbeitet, gespeichert und per E-Mail an uns weitergegeben. 
-Außerdem werden von Formspree unter anderem weitere Daten wie Ihre IP-Adresse, Ihr Typ des Browsers, die Domain der Website, 
+Diese Website nutzt Fabform, einen Webdienst der Website {{< newtabref  href="https://fabform.io/" title="fabform.io" >}}
+(nachfolgend „Fabform“). Um Ihnen die Funktionalität des Kontaktformulars zur Verfügung zu stellen, senden wir Ihre eingegebenen 
+Kontaktdaten an Fabform. Diese Daten werden dort verarbeitet, gespeichert und per E-Mail an uns weitergegeben. 
+Außerdem werden von Fabform unter anderem weitere Daten wie Ihre IP-Adresse, Ihr Typ des Browsers, die Domain der Website, 
 das Datum und die Zeit des Zugriffs erhoben, um die gewünschte Funktionalität des Kontaktformulars bereitzustellen.
-Rechtsgrundlage für die Nutzung von Formspree ist Art. 6 Abs. 1 S. 1 lit. f DSGVO (berechtigtes Interesse). Es werden personenbezogene Daten in die
-USA übertragen. Formspree ist Teil des Shield-Abkommens, die Datenverarbeitung ist also DSGVO-konform. Weitere Informationen
-finden Sie unter {{< newtabref  href="https://formspree.io/legal/privacy-policy" title="https://formspree.io/legal/privacy-policy" >}}
+Rechtsgrundlage für die Nutzung von Fabform ist Art. 6 Abs. 1 S. 1 lit. f DSGVO (berechtigtes Interesse). 
+Es werden personenbezogene Daten in die
+USA übertragen. Weitere Informationen finden Sie unter {{< newtabref  href="https://fabform.io/a/privacy-policy" title="https://fabform.io/a/privacy-policy" >}}
 
 ##### Rechtsgrundlagen
 Die Verarbeitung der Daten basiert auf den folgenden Rechtsgrundlagen:
