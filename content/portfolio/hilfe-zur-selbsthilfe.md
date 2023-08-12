@@ -7,10 +7,10 @@ category: ["Einzelsession"]
 project_images: ["images/projects/selbsthilfe.jpg", "images/projects/selbsthilfe-2.jpg",]
 ---
 
-Wir kennen es alle, Du sitzt for dem Computer und er macht einfach nicht was Du von ihm möchtest. Du bist mit Deinem 
-Latein und Deinen Nerven am Ende. Du wünschst Dir den "Einen Freund anrufen Joker" weisst aber nicht wen Du anrufen sollst? 
+Wir kennen es alle: Du sitzt vor dem Computer und er macht einfach nicht was Du von ihm möchtest. Du bist mit Deinem 
+Latein und Deinen Nerven am Ende. Du wünschst Dir den "Einen-Freund-anrufen-Joker", weisst aber nicht wen Du anrufen sollst? 
 
-Jetzt weisst Du es. Ich bin bei Problemen, bei denen Du Dir die Haare raufst Deine Ansprechpartnerin. Ich stehe Dir zur Seite
+Jetzt weisst Du es. Ich bin bei Problemen, bei denen Du Dir die Haare raufst, Deine Ansprechpartnerin. Ich stehe Dir zur Seite,
 und helfe Dir es selbst zu lösen. 
 
 ![dots](/images/dots.png)
@@ -18,14 +18,14 @@ und helfe Dir es selbst zu lösen.
 
 #### Beschreibung des Problems
 
-Du schilderst mir Dein Problem am besten via das [Kontaktformular](/kontakt) oder per Email.
+Du schilderst mir Dein Problem am besten via [Kontaktformular](/kontakt) oder per Email.
 
 ![stars](/images/stars.svg)
 
 #### Direkthilfe / Angebot
 
 Innerhalb von 48 Stunden bekommst Du von mir eine Antwort. 
-Sollte die Lösung Deines Problems nicht mehr als 15min in Anspruch nehmen machen wir direkt einen Termin aus.
+Sollte die Lösung Deines Problems nicht mehr als 15min in Anspruch nehmen machen, wir direkt einen Termin aus.
 Ansonsten bekommst Du von mir ein Angebot.
 
 ![stars](/images/stars.svg)
@@ -38,10 +38,10 @@ Wunsch bekommst Du auch eine schriftliche Zusammenfassung für Deine Wissensbibl
 
 ![stars](/images/stars.svg)
 
-#### Von der Ohnmacht zu mehr Selbstermächtigung
+#### Aus der Ohnmacht zu mehr Selbstermächtigung
 
-Bei mir gibt es keine Dienstleistung im herkömmlichen Sinne. Im Vordergrund steht immer, dass Du in die Selbstermächtigung 
-kommst und Dir immer mehr selbst helfen kannst. Daher werden die Probleme gemeinsam gelöst.
+Bei mir gibt es keine Dienstleistung im herkömmlichen Sinne. Im Vordergrund steht immer, dass Du Dir immer mehr selbst helfen kannst. 
+Daher lösen wir die Probleme gemeinsam.
 
 ![stars](/images/stars.svg)
 
@@ -55,5 +55,5 @@ den gleichen Stundensatz, den Du Deinen Kundinnen berechnest.
 #### Ablauf
 
 Je nachdem wo Du Dich befindest und wie es Dir besser passt, komme ich entweder zu Dir (Fahrtkostenpauschale) oder wir 
-benutzen eine Online Meeting oder Remote Access Software damit ich auch auf die Distanz sehen kann was auf Deinem Computer 
+benutzen eine Online-Meeting (Jitsi oder Microsoft Teams) oder Remote-Access-Software (Teamviewer) damit ich auch auf die Distanz sehen kann, was auf Deinem Computer 
 vor sich geht. 
