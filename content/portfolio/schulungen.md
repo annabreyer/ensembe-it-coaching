@@ -11,7 +11,7 @@ project_images: ["images/projects/schulung.jpg", "images/projects/schulung-remot
 Ich biete Veranstaltungen zu verschiedenen Themenbereichen an. Von einer Einführung in Microsoft Excel bis hin zu Grundlagen der 
 Internetsicherheit.
 Je nach Thema dauert ein Vortrag / Schulung 1-2 Stunden plus Fragerunde. Ich halte die Gruppe bewusst klein, damit ich
-jeder Teilnehmerin auch Zeit widmen kann. 
+jeder Teilnehmerin auch genug Zeit widmen kann. 
 
 ![dots](/images/dots.png)
 
@@ -27,10 +27,9 @@ Danach kannst Du besser entscheiden, ob und wie Du dir Hilfe holst oder es selbs
 
 #### Excel Grundlagen 
 
-Wir alle müssen mit Excel arbeiten. Aber oft ist es uns ein Buch mit sieben Siegeln. In dieser Reihe zeige ich dir die Grundlagen
-in Excel. Wie ist es aufgebaut, die wird formatiert, welche Kniffe und Tricks helfen Zeit zu sparen. 
+Wir alle müssen mit Excel arbeiten. Aber oft ist es für uns ein Buch mit sieben Siegeln. In dieser Reihe zeige ich dir die Grundlagen
+in Excel. Wie ist es aufgebaut, wie wird formatiert, welche Kniffe und Tricks helfen Zeit zu sparen.
 Auch eine Einleitung zu Formeln und Verweisen gibt es.
-
 ![stars](/images/stars.svg)
 
 
@@ -45,4 +44,4 @@ Auch eine Einleitung zu Formeln und Verweisen gibt es.
 
 ### Online oder IRL (in real life)
 
-Beides ist möglich, allerdings ist es oft leichter eine Gruppe zu füllen wenn die Veranstaltung online stattfindet. 
+Beides ist möglich, allerdings ist es oft leichter, eine Gruppe zu füllen, wenn die Veranstaltung online stattfindet. 
