@@ -55,5 +55,5 @@ den gleichen Stundensatz, den Du Deinen Kundinnen berechnest.
 #### Ablauf
 
 Je nachdem wo Du Dich befindest und wie es Dir besser passt, komme ich entweder zu Dir (Fahrtkostenpauschale) oder wir 
-benutzen eine Online-Meeting (Jitsi oder Microsoft Teams) oder Remote-Access-Software (Teamviewer) damit ich auch auf die Distanz sehen kann, was auf Deinem Computer 
+benutzen eine Online-Meeting (Jitsi oder Microsoft Teams) oder Remote-Access-Software (Teamviewer), damit ich auch auf die Distanz sehen kann, was auf Deinem Computer 
 vor sich geht. 
