@@ -93,7 +93,7 @@ secondary_button_url = "portfolio"
 [params.footer]
 # Footer Contact Info
 [params.footer.contactInfo]
-title   = "Kontakt Information"
+title   = "Kontakt"
 address = "Bahnhofstr. 9, <br> 55278 Hahnheim"
 phone   = "+49 174 5124442"
 email   = "office@ensemble-it-coaching.de"
