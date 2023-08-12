@@ -6,7 +6,7 @@ testimonial_item :
     name  : "Nora Breyer"
     company_position: "Gastronomin"
     quote : > 
-            "Egal ob Word, Excel oder ein allgemeines Computer Problem, Anna hat immer ein offenes Ohr, eine Lösung oder einfach nur ihre beruhigende Präsenz die es mir erlaubt selbst die Lösung zu finden." 
+            "Egal ob Word, Excel oder ein allgemeines Computer-Problem, Anna hat immer ein offenes Ohr, eine Lösung oder einfach nur ihre beruhigende Präsenz, die es mir erlaubt selbst die Lösung zu finden." 
 
   - thumb : "images/testimonial/VanessaSharmaThumb.jpeg"
     name  : "Vanessa Sharma"
