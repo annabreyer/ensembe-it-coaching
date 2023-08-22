@@ -1,6 +1,6 @@
 .site-404 {
+  text-align: center;
   padding: 150px 0 100px;
-  background: $gray;
   @include mobile {
     padding: 120px 0 100px;
   }
@@ -9,5 +9,41 @@
     width: 400px;
   }
 
+  .middle {
+    padding: 50px 0 50px;
+  }
+  .top {
+    margin-top: 30px;
+  }
+
+  .container {
+    margin: 0 auto;
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin-top: -40px;
+  }
+
+  @keyframes scale {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  @keyframes float {
+    50% {
+      transform: translateY(15px);
+    }
+  }
+
+  .bottom {
+    margin-top: 10px;
+  }
 
 }
