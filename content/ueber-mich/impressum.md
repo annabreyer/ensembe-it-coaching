@@ -6,7 +6,7 @@ arrow: false
 ### Angaben gemäß § 5 TMG
 
 Anna Breyer  
-{{<script >}}Ensemble {{</>}} IT Coaching  
+Ensemble IT Coaching  
 Bahnhofstr. 9  
 55278 Hahnheim  
 Deutschland

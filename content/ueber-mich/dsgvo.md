@@ -30,7 +30,7 @@ im Sinne des Art. 4 Nr. 1 DSGVO wie zum Beispiel Name, E-Mail-Adresse und postal
 personenbezogener Daten sorgt dafür, dass wir unsere Dienstleistungen und Produkte anbieten und abrechnen können, sei 
 es online oder offline. Der Anwendungsbereich dieser Datenschutzerklärung umfasst:
 
-- alle Onlineauftritte (Websites, Onlineshops), die wir betreiben
+- alle Websites, die wir betreiben
 - Social Media Auftritte und E-Mail-Kommunikation
 
 **Kurz gesagt:** Die Datenschutzerklärung gilt für alle Bereiche, in denen personenbezogene Daten im Unternehmen über 
@@ -186,7 +186,7 @@ Wenn Sie mit uns per E-Mail kommunizieren, werden Daten gegebenenfalls auf dem j
 ##### Online Formulare
 Diese Website nutzt Fabform, einen Webdienst der Website {{< newtabref  href="https://fabform.io/" title="fabform.io" >}}
 (nachfolgend „Fabform“). Um Ihnen die Funktionalität des Kontaktformulars zur Verfügung zu stellen, senden wir Ihre eingegebenen 
-Kontaktdaten an Fabform. Diese Daten werden dort verarbeitet, gespeichert und per E-Mail an uns weitergegeben. 
+Kontaktdaten an Fabform. Diese Daten werden dort verarbeitet und per E-Mail an uns weitergegeben. 
 Außerdem werden von Fabform unter anderem weitere Daten wie Ihre IP-Adresse, Ihr Typ des Browsers, die Domain der Website, 
 das Datum und die Zeit des Zugriffs erhoben, um die gewünschte Funktionalität des Kontaktformulars bereitzustellen.
 Rechtsgrundlage für die Nutzung von Fabform ist Art. 6 Abs. 1 S. 1 lit. f DSGVO (berechtigtes Interesse). 
@@ -365,7 +365,7 @@ Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, 
 anonymisierte, statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit 
 der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
 
-Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter:
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter:  
 {{< newtabref  href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages" title="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages" >}}
 
 Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
@@ -400,8 +400,8 @@ Mehr Details dazu finden Sie bei den jeweils eingesetzten Tools.
 ***
 
 #### Was sind Messenger- &amp; Kommunikationsfunktionen?
-Wir bieten auf unserer Website verschiedene Möglichkeiten (etwa Messenger- und Chatfunktionen, Online- bzw. Kontaktformulare, 
-E-Mail, Telefon), um mit uns zu kommunizieren. Dabei werden auch Ihre Daten, soweit es für die Beantwortung Ihrer Anfrage 
+Wir bieten auf unserer Website verschiedene Möglichkeiten (etwa Online- bzw. Kontaktformulare, E-Mail, Telefon), um mit 
+uns zu kommunizieren. Dabei werden auch Ihre Daten, soweit es für die Beantwortung Ihrer Anfrage 
 und unseren darauffolgenden Maßnahmen nötig ist, verarbeitet und gespeichert.  
 Wir nutzen neben klassischen Kommunikationsmitteln wie E-Mail, Kontaktformularen oder Telefon auch Chats bzw. Messenger. 
 Die derzeit am häufigsten verwendete Messenger-Funktion ist WhatsApp, aber es gibt natürlich speziell für Websites viele 
@@ -416,7 +416,7 @@ Kommunikationsmöglichkeiten mit Ihnen sind für uns von großer Bedeutung. Schl
 alle möglichen Fragen zu unserem Service bestmöglich beantworten. Eine gut funktionierende Kommunikation ist bei uns 
 ein wichtiger Teil unserer Dienstleistung. Mit den praktischen Messenger- &amp; Kommunikationsfunktionen können Sie 
 jederzeit jene wählen, die Ihnen am liebsten sind. In Ausnahmefällen kann es aber auch vorkommen, dass wir bestimmte 
-Fragen über Chat bzw. Messenger nicht beantworten. Das ist der Fall, wenn es etwa um interne vertragliche Angelegenheiten 
+Fragen über Messenger nicht beantworten. Das ist der Fall, wenn es etwa um interne vertragliche Angelegenheiten 
 geht. Hier empfehlen wir andere Kommunikationsmöglichkeiten wie E-Mail oder Telefon.  
 Wir gehen in der Regel davon aus, dass wir datenschutzrechtlich verantwortlich bleiben, auch wenn wir Dienste einer 
 Social-Media-Plattform nutzen. Der Europäische Gerichtshof hat jedoch entschieden, dass in bestimmten Fällen der 
@@ -424,7 +424,7 @@ Betreiber der Social-Media-Plattform zusammen mit uns gemeinsam verantwortlich i
 Soweit dies der Fall ist, weisen wir gesondert darauf hin und arbeiten auf Grundlage einer diesbezüglichen Vereinbarung. 
 Das Wesentliche der Vereinbarung ist weiter unten bei der betroffenen Plattform wiedergegeben.  
 Bitte beachten Sie, dass bei der Nutzung unserer eingebauten Elemente auch Daten von Ihnen außerhalb der Europäischen 
-Union verarbeitet werden können, da viele Anbieter, beispielsweise Facebook-Messenger oder WhatsApp amerikanische 
+Union verarbeitet werden können, da viele Anbieter, beispielsweise Instagram oder WhatsApp amerikanische 
 Unternehmen sind. Dadurch können Sie möglicherweise Ihre Rechte in Bezug auf Ihre personenbezogenen Daten nicht mehr 
 so leicht einfordern bzw. durchsetzen.
 
@@ -432,9 +432,9 @@ so leicht einfordern bzw. durchsetzen.
 Welche Daten genau gespeichert und verarbeitet werden, hängt vom jeweiligen Anbieter der Messenger- &amp; Kommunikationsfunktionen ab. 
 Grundsätzlich handelt es sich um Daten wie etwa Name, Adresse, Telefonnummer, E-Mailadresse und Inhaltsdaten wie beispielsweise 
 alle Informationen, die Sie in ein Kontaktformular eingeben. Meistens werden auch Informationen zu Ihrem Gerät und die 
-IP-Adresse gespeichert. Daten, die über eine Messenger- &amp; Kommunikationsfunktion erhoben werden, werden auch auf den 
-Servern der Anbieter gespeichert.  
-Wenn Sie genau wissen wollen, welche Daten bei den jeweiligen Anbietern gespeichert und verarbeitet werden und wie Sie 
+IP-Adresse gespeichert.  
+Daten, die über eine Messenger- &amp; Kommunikationsfunktion erhoben werden, werden auch auf den 
+Servern der Anbieter gespeichert. Wenn Sie genau wissen wollen, welche Daten bei den jeweiligen Anbietern gespeichert und verarbeitet werden und wie Sie 
 der Datenverarbeitung widersprechen können, sollten Sie die jeweilige Datenschutzerklärung des Unternehmens sorgfältig durchlesen.
 
 ##### Wie lange werden Daten gespeichert?
@@ -715,129 +715,7 @@ und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der 
 Die meisten von uns verwendeten Dienste setzen Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir 
 Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien 
 des jeweiligen Dienstanbieters anzusehen.  
-Informationen zu speziellen Tools erfahren Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.  
-
-#### Google reCAPTCHA Datenschutzerklärung
-***
-**Google reCAPTCHA Datenschutzerklärung Zusammenfassung**
-  
-&#x1f465; Betroffene: Besucher der Website  
-&#x1f91d; Zweck: Optimierung unserer Serviceleistung und Schutz vor Cyberangriffen  
-&#x1f4d3; Verarbeitete Daten: Daten wie etwa IP-Adresse, Browserinformationen, Ihr Betriebssystem, eingeschränkte Standorts- und Nutzungsdaten  
-Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.  
-&#x1f4c5; Speicherdauer: abhängig von den gespeicherten Daten  
-&#x2696;&#xfe0f; Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
-***
-##### Was ist reCAPTCHA?
-Unser oberstes Ziel ist es, unsere Webseite für Sie und für uns bestmöglich zu sichern und zu schützen. Um das zu gewährleisten, 
-verwenden wir Google reCAPTCHA der Firma Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited 
-(Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Mit reCAPTCHA können wir feststellen, 
-ob Sie auch wirklich ein Mensch aus Fleisch und Blut sind und kein Roboter oder eine andere Spam-Software. Unter Spam verstehen 
-wir jede, auf elektronischen Weg, unerwünschte Information, die uns ungefragter Weise zukommt. Bei den klassischen CAPTCHAS 
-mussten Sie zur Überprüfung meist Text- oder Bildrätsel lösen. Mit reCAPTCHA von Google müssen wir Sie meist nicht mit 
-solchen Rätseln belästigen. Hier reicht es in den meisten Fällen, wenn Sie einfach ein Häkchen setzen und so bestätigen, 
-dass Sie kein Bot sind. Mit der neuen Invisible reCAPTCHA Version müssen Sie nicht mal mehr ein Häkchen setzen. Wie das 
-genau funktioniert und vor allem welche Daten dafür verwendet werden, erfahren Sie im Verlauf dieser Datenschutzerklärung.  
-reCAPTCHA ist ein freier Captcha-Dienst von Google, der Webseiten vor Spam-Software und den Missbrauch durch 
-nicht-menschliche Besucher schützt. Am häufigsten wird dieser Dienst verwendet, wenn Sie Formulare im Internet ausfüllen. 
-Ein Captcha-Dienst ist eine Art automatischer Turing-Test, der sicherstellen soll, dass eine Handlung im Internet 
-von einem Menschen und nicht von einem Bot vorgenommen wird. Im klassischen Turing-Test (benannt nach dem Informatiker Alan Turing) 
-stellt ein Mensch die Unterscheidung zwischen Bot und Mensch fest. Bei Captchas übernimmt das auch der Computer bzw. 
-ein Softwareprogramm. Klassische Captchas arbeiten mit kleinen Aufgaben, die für Menschen leicht zu lösen sind, doch für 
-Maschinen erhebliche Schwierigkeiten aufweisen. Bei reCAPTCHA müssen Sie aktiv keine Rätsel mehr lösen. Das Tool verwendet 
-moderne Risikotechniken, um Menschen von Bots zu unterscheiden. Hier müssen Sie nur noch das Textfeld „Ich bin kein Roboter“ 
-ankreuzen bzw. bei Invisible reCAPTCHA ist selbst das nicht mehr nötig. Bei reCAPTCHA wird ein JavaScript-Element in 
-den Quelltext eingebunden und dann läuft das Tool im Hintergrund und analysiert Ihr Benutzerverhalten. Aus diesen Useraktionen 
-berechnet die Software einen sogenannten Captcha-Score. Google berechnet mit diesem Score schon vor der Captcha-Eingabe wie 
-hoch die Wahrscheinlichkeit ist, dass Sie ein Mensch sind. reCAPTCHA bzw. Captchas im Allgemeinen kommen immer dann zum 
-Einsatz, wenn Bots gewisse Aktionen (wie z.B. Registrierungen, Umfragen usw.) manipulieren oder missbrauchen könnten.  
-
-##### Warum verwenden wir reCAPTCHA auf unserer Website?
-Wir wollen nur Menschen aus Fleisch und Blut auf unserer Seite begrüßen. Bots oder Spam-Software unterschiedlichster Art 
-dürfen getrost zuhause bleiben. Darum setzen wir alle Hebel in Bewegung, uns zu schützen und die bestmögliche 
-Benutzerfreundlichkeit für Sie anzubieten. Aus diesem Grund verwenden wir Google reCAPTCHA der Firma Google. So können 
-wir uns ziemlich sicher sein, dass wir eine „botfreie“ Webseite bleiben. Durch die Verwendung von reCAPTCHA werden 
-Daten an Google übermittelt, um festzustellen, ob Sie auch wirklich ein Mensch sind. reCAPTCHA dient also der Sicherheit 
-unserer Webseite und in weiterer Folge damit auch Ihrer Sicherheit. Zum Beispiel könnte es ohne reCAPTCHA passieren, 
-dass bei einer Registrierung ein Bot möglichst viele E-Mail-Adressen registriert, um im Anschluss Foren oder Blogs mit 
-unerwünschten Werbeinhalten „zuzuspamen“. Mit reCAPTCHA können wir solche Botangriffe vermeiden.  
-
-##### Welche Daten werden von reCAPTCHA gespeichert?
-reCAPTCHA sammelt personenbezogene Daten von Usern, um festzustellen, ob die Handlungen auf unserer Webseite auch 
-wirklich von Menschen stammen. Es kann also die IP-Adresse und andere Daten, die Google für den reCAPTCHA-Dienst benötigt, 
-an Google versendet werden. IP-Adressen werden innerhalb der Mitgliedstaaten der EU oder anderer Vertragsstaaten des 
-Abkommens über den Europäischen Wirtschaftsraum fast immer zuvor gekürzt, bevor die Daten auf einem Server in den USA 
-landen. Die IP-Adresse wird nicht mit anderen Daten von Google kombiniert, sofern Sie nicht während der Verwendung von 
-reCAPTCHA mit Ihrem Google-Konto angemeldet sind. Zuerst prüft der reCAPTCHA-Algorithmus, ob auf Ihrem Browser schon 
-Google-Cookies von anderen Google-Diensten (YouTube. Gmail usw.) platziert sind. Anschließend setzt reCAPTCHA ein 
-zusätzliches Cookie in Ihrem Browser und erfasst einen Schnappschuss Ihres Browserfensters.  
-Die folgende Liste von gesammelten Browser- und Userdaten, hat nicht den Anspruch auf Vollständigkeit. Vielmehr sind 
-es Beispiele von Daten, die nach unserer Erkenntnis, von Google verarbeitet werden.  
-
-- Referrer URL (die Adresse der Seite von der der Besucher kommt)  
-- IP-Adresse (z.B. 256.123.123.1)  
-- Infos über das Betriebssystem (die Software, die den Betrieb Ihres Computers ermöglicht. Bekannte Betriebssysteme sind Windows, Mac OS X oder Linux)  
-- Cookies (kleine Textdateien, die Daten in Ihrem Browser speichern)  
-- Maus- und Keyboardverhalten (jede Aktion, die Sie mit der Maus oder der Tastatur ausführen wird gespeichert)  
-- Datum und Spracheinstellungen (welche Sprache bzw. welches Datum Sie auf Ihrem PC voreingestellt haben wird gespeichert)  
-- Alle Javascript-Objekte (JavaScript ist eine Programmiersprache, die Webseiten ermöglicht, sich an den User anzupassen. JavaScript-Objekte können alle möglichen Daten unter einem Namen sammeln)  
-- Bildschirmauflösung (zeigt an aus wie vielen Pixeln die Bilddarstellung besteht)  
-
-Unumstritten ist, dass Google diese Daten verwendet und analysiert noch bevor Sie auf das Häkchen „Ich bin kein Roboter“ klicken. 
-Bei der Invisible reCAPTCHA-Version fällt sogar das Ankreuzen weg und der ganze Erkennungsprozess läuft im Hintergrund ab. 
-Wie viel und welche Daten Google genau speichert, erfährt man von Google nicht im Detail.  
- 
-##### Wie lange und wo werden die Daten gespeichert?
-Durch das Einfügen von reCAPTCHA werden Daten von Ihnen auf den Google-Server übertragen. Wo genau diese Daten gespeichert werden, 
-stellt Google, selbst nach wiederholtem Nachfragen, nicht klar dar. Ohne eine Bestätigung von Google erhalten zu haben, ist davon 
-auszugehen, dass Daten wie Mausinteraktion, Verweildauer auf der Webseite oder Spracheinstellungen auf den europäischen oder 
-amerikanischen Google-Servern gespeichert werden. Die IP-Adresse, die Ihr Browser an Google übermittelt, wird grundsätzlich 
-nicht mit anderen Google-Daten aus weiteren Google-Diensten zusammengeführt. Wenn Sie allerdings während der Nutzung des 
-reCAPTCHA-Plug-ins bei Ihrem Google-Konto angemeldet sind, werden die Daten zusammengeführt.** **Dafür gelten die 
-abweichenden Datenschutzbestimmungen der Firma Google.  
-
-##### Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
-Wenn Sie wollen, dass über Sie und über Ihr Verhalten keine Daten an Google übermittelt werden, müssen Sie sich, bevor 
-Sie unsere Webseite besuchen bzw. die reCAPTCHA-Software verwenden, bei Google vollkommen ausloggen und alle Google-Cookies 
-löschen. Grundsätzlich werden die Daten sobald Sie unsere Seite aufrufen automatisch an Google übermittelt. Um diese 
-Daten wieder zu löschen, müssen Sie den Google-Support auf  {{< newtabref  href="https://support.google.com/?hl=de&amp;tid=312558597" title="https://support.google.com/?hl=de&amp;tid=312558597" >}}. kontaktieren.  
-Wenn Sie also unsere Webseite verwenden, erklären Sie sich einverstanden, dass Google LLC und deren Vertreter automatisch 
-Daten erheben, bearbeiten und nutzen.  
-Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet 
-werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht 
-als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet 
-werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen 
-Dienstleister gibt.  
-##### Rechtsgrundlage
-Wenn Sie eingewilligt haben, dass Google reCAPTCHA eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden 
-Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut **Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)** 
-die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Google reCAPTCHA 
-vorkommen kann, dar.  
-Von unserer Seite besteht zudem ein berechtigtes Interesse, Google reCAPTCHA zu verwenden, um unser Online-Service zu 
-optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist **Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)**. 
-Wir setzen Google reCAPTCHA gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.  
-Google verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen 
-Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen 
-Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.  
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, 
-Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Google sogenannte 
-Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) 
-sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den 
-europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert 
-und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Google, bei der Verarbeitung Ihrer relevanten Daten, 
-das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. 
-Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden 
-Standardvertragsklauseln u.a. hier: {{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu" >}}
-  
-Die Google Ads Datenverarbeitungsbedingungen (Google Ads Data Processing Terms), welche auf die Standardvertragsklauseln 
-verweisen, finden Sie unter
-{{< newtabref  href="https://business.safety.google/intl/de/adsprocessorterms/" title="https://business.safety.google/intl/de/adsprocessorterms/" >}}
-Etwas mehr über reCAPTCHA erfahren Sie auf der Webentwickler-Seite von Google auf
-{{< newtabref  href="https://developers.google.com/recaptcha/" title="https://developers.google.com/recaptcha/" >}}
-Google geht hier zwar auf die technische Entwicklung der reCAPTCHA näher ein, doch genaue Informationen über Datenspeicherung 
-und datenschutzrelevanten Themen sucht man auch dort vergeblich. Eine gute Übersicht über die grundsätzliche Verwendung von 
-Daten bei Google finden Sie in der hauseigenen Datenschutzerklärung auf
-{{< newtabref  href="https://policies.google.com/privacy?tid=312558597" title="https://policies.google.com/privacy" >}}
+Informationen zu speziellen Tools erfahren Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.
 
 ####Cloud-Dienste
 ***
@@ -1110,7 +988,7 @@ Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir set
 soweit Sie eine Einwilligung erteilt haben. Das wollen wir hier auf jeden Fall nochmals betonen.  
 Informationen zu speziellen Webdesign-Tools erhalten Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.  
 
-##### Google Fonts (lokales Hosting)
+#### Google Fonts (lokales Hosting)
 Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Google Fonts, die von Google bereitgestellt 
 werden. Die Google Fonts sind lokal installiert. Eine Verbindung zu Servern von Google findet dabei nicht statt.
 
@@ -1131,8 +1009,8 @@ Um die Einhaltung der Lizenzbedingungen und die Anzahl der monatlichen Seitenauf
 überträgt MyFonts Ihre IP-Adresse zusammen mit der URL unserer Webseite und unseren Vertragsdaten auf seine Server in den USA. 
 Ihre IP-Adresse wird laut Monotype unmittelbar nach der Übertragung anonymisiert, sodass kein Personenbezug 
 mehr hergestellt werden kann (Anonymisierung).
-Details entnehmen Sie der Datenschutzerklärung von Monotype unter
-https://www.monotype.com/de/rechtshinweise/datenschutzrichtlinie/datenschutzrichtlinie-zum-tracking- von-webschriften.
+Details entnehmen Sie der Datenschutzerklärung von Monotype unter  
+https://www.monotype.com/de/rechtshinweise/datenschutzrichtlinie/datenschutzrichtlinie-zum-tracking-von-webschriften.
 
 #### Online-Buchungssysteme Einleitung
 ***

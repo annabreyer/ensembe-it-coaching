@@ -4,9 +4,9 @@ type : about
 arrow: false
 ---
 
-### Woher kommt der Name {{<script >}}Ensemble {{</>}}?
+### Woher kommt der Name Ensemble?
 
-{{<script >}}Ensemble{{</>}} ist französisch für gemeinsam. Es erinnert an meine Zeit in Frankreich und ist auch kein Fremdwort im Deutschen,
+Ensemble ist französisch für gemeinsam. Es erinnert an meine Zeit in Frankreich und ist auch kein Fremdwort im Deutschen,
 auch wenn die Bedeutung eine etwas andere ist.
 
 
@@ -15,7 +15,7 @@ auch wenn die Bedeutung eine etwas andere ist.
 ### Was ist bei mir anders?
 
 Die Welt ist voll von IT-Beratern, die klassische Dienstleistungen anbieten. Das ist nicht mein Fall.
-Mir geht es darum, Dir zu helfen dich selbst zu ermächtigen. Weg von der Ohnmacht.
+Mir geht es darum, Dir zu helfen Dich selbst zu ermächtigen. Weg von der Ohnmacht.
 Ich löse Deine Probleme nicht für Dich, sondern mit Dir. Das Ziel ist, dass Du mich irgendwann nicht mehr brauchst und
 ganz alleine mit den Herausforderungen des digitalen Zeitalters klarkommst.
 
