@@ -1,21 +1,21 @@
 enable  : true
 title   : "Kundinnen* Stimmen"
-subtitle: "Was meinen Kundinnen zu sagen haben"
+subtitle: "Was meinen Kundinnen* zu sagen haben"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/NoraBreyerThumb.jpg"
     name  : "Nora Breyer"
     company_position: "Gastronomin"
     quote : > 
-            "Egal ob Word, Excel oder ein allgemeines Computer Problem, Anna hat immer ein offenes Ohr, eine Lösung oder einfach nur seine beruhigende Präsenz die es mir erlaubt slebst die Lösung zu finden. " 
+            "Egal ob Word, Excel oder ein allgemeines Computer-Problem, Anna hat immer ein offenes Ohr, eine Lösung oder einfach nur ihre beruhigende Präsenz, die es mir erlaubt selbst die Lösung zu finden." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
+  - thumb : "images/testimonial/VanessaSharmaThumb.jpeg"
     name  : "Vanessa Sharma"
     company_position: "Kunsttherapeutin"
     quote : > 
-            "Pending" 
+            "Mit einer Engelsgeduld und kühlem Kopf ist Anna zur Stelle und bewahrt mich vor einem Nervenzusammenbruch. Das Gefühl komplizierte IT-Probleme nicht selbst ergründen zu müssen, ist erleichternd. Indem ich es an Anna abgebe, mache ich ihr sogar eine Freude, denn sie hat Spaß an Dingen, die mir zu viel abverlangen würden."
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Caro Brochwitz"
-    company_position: "Goldschmiedin"
+  - thumb : "images/testimonial/VanessaDoriatThumb.jpg"
+    name  : "Vanessa Doriat"
+    company_position: "Entspannungspädagogin"
     quote : > 
-            "pending" 
+            "Ich durfte an einer Homepage Schulung von Anna teilnehmen und kann sie und ihr Angebot nur weiter empfehlen! Sie bereitet die wichtigsten Infos übersichtlich und verständlich auf, sodass jede* die Chance hat, dieses für viele doch schwierige Thema "IT" (in diesem speziellen Fall eben Webseiten) besser zu durchblicken. Auch die Rückfragen von mir und der Gruppe hat sie kompetent und auf Augenhöhe beantwortet. Ich freue mich schon, die Website für meine Selbstständigkeit mit ihrer Hilfe zu gestalten!" 

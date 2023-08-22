@@ -1,49 +1,93 @@
-.site-contact{
+.site-contact {
   padding: 150px 0 100px;
   background: $gray;
-  @include mobile{
+  @include mobile {
     padding: 120px 0 100px;
   }
-  &-title{
-    font-weight: 700;
-    @include tablet{
-      font-size: 40px;
+
+  &-links {
+    margin-top: 70px;
+    i {
+      color: $secondary-color;
     }
-    span{
-      color: $primary-color;
+
+    a {
+      font-size: 13px;
+      text-transform: uppercase;
+      margin-bottom: 50px;
+      letter-spacing: 3px;
+      color: $secondary-color;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+      &-email {
+        background: $secondary-color;
+
+        span {
+          color: $gray;
+        }
+      }
     }
   }
-  &-form{
+
+  &-title {
+    font-weight: 700;
+    @include tablet {
+      font-size: 40px;
+    }
+  }
+
+  &-subtitle {
+    color: $primary-color;
+    font: $secondary-font;
+    @include tablet {
+      font-size: 40px;
+    }
+  }
+
+
+  &-form {
     margin-top: 20px;
-    h4{
+
+    h4 {
       font-weight: 300;
       text-transform: uppercase;
       margin-bottom: 50px;
       letter-spacing: 3px;
-      @include tablet{
+      @include tablet {
         font-size: 20px;
       }
-      @include desktop{
+      @include desktop {
         margin-bottom: 70px;
       }
     }
   }
 }
+
 .contact-form-generator {
   margin-top: 20px;
-    a{
+
+  span {
+    font-size: 12px;
+  }
+
+  a {
     color: $text-color-dark;
     font-size: 13px;
     text-transform: uppercase;
     margin-bottom: 50px;
     letter-spacing: 3px;
-    &:hover{
+
+    &:hover {
       text-decoration: none;
     }
-    @include tablet{
+
+    @include tablet {
       font-size: 20px;
     }
-    @include desktop{
+    @include desktop {
       margin-bottom: 70px;
     }
   }

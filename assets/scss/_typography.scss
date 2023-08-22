@@ -39,3 +39,25 @@ h6{
   font-size: 15px;
   font-weight: 300;
 }
+
+a {
+  color: $secondary-color;
+  transition: 0.3s ease;
+  &:hover{
+    text-decoration: underline;
+    color: $secondary-color;
+  }
+}
+
+blockquote{
+  p{
+    color: $text-color-dark;
+    font-size: 18px;
+    font-style: italic;
+  }
+}
+
+
+.ensemble{
+  font-family: MiamoScript;
+}
