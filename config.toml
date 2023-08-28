@@ -79,7 +79,7 @@ secondary_button_url  = "kontakt"
 [params.portfolio]
 enable    = true
 title     = "MEIN ANGEBOT"
-subtitle  = "Damit Du Dich auf Dein Kerngeschäft konzentrieren kannst statt Zeit mit Technik Fragen zu verlieren."
+subtitle  = "Damit Du Dich auf Dein Kerngeschäft konzentrieren kannst statt Zeit mit Technikfragen zu verlieren."
 
 [params.call_to_action]
 enable               = true
@@ -94,7 +94,7 @@ secondary_button_url = "portfolio"
 # Footer Contact Info
 [params.footer.contactInfo]
 title   = "Kontakt"
-address = "Bahnhofstr. 9, <br> 55278 Hahnheim"
+address = "Bahnhofstr. 9 <br> 55278 Hahnheim"
 phone   = "+49 174 5124442"
 email   = "office@ensemble-it-coaching.de"
 # Footer Sitemap

@@ -17,6 +17,6 @@ counter_item:
   - name: Textverarbeitung
     list: MS Word, Pages
   - name: Online meeting
-    list: Zoom, MS Teams, Slack, Google Meet
+    list: Zoom, MS Teams, Jitsi, Google Meet
   - name: Anderes
-    list: Cloud Dienste, iOS (iPhone), Password Manager, Trello
+    list: Cloud Dienste, iOS (iPhone), Trello, Passwortmanager
