@@ -1,9 +1,11 @@
-baseURL       = "https://ensemble-it-coaching.de/"
-languageCode  = "de-DE"
-title         = "Ensemble IT Coaching"
-theme         = "roxo-hugo"
+baseURL = "https://ensemble-it-coaching.de/"
+languageCode = "de-DE"
+title = "Ensemble IT Coaching"
+theme = "roxo-hugo"
 summarylength = 25
 relativeURLs = true
+enableRobotsTXT = true
+enableEmoji = true
 
 [sitemap]
 filename = 'sitemap.xml'
@@ -43,6 +45,8 @@ author = "Ensemble by Anna Breyer"
 # We're using formspree.io for form handling, paste your formspree url below
 #formspree  = "https://formspree.io/f/mnqknyrz"
 fabform = "https://fabform.io/f/NjpP9iZ"
+#openGraph
+Image = "/images/og/ensemble-logo.png"
 
 # Contact Form
 [params.contactForm]
