@@ -3,9 +3,11 @@ languageCode  = "de-DE"
 title         = "Ensemble IT Coaching"
 theme         = "roxo-hugo"
 summarylength = 25
-
 relativeURLs = true
 
+[sitemap]
+filename = 'sitemap.xml'
+priority = -1
 
 # Site Menus
 [menu]
