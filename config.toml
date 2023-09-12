@@ -6,6 +6,10 @@ summarylength = 25
 relativeURLs = true
 enableRobotsTXT = true
 enableEmoji = true
+removePathAccents = true
+
+[frontmatter]
+lastmod = [':git', ':fileModTime']
 
 [sitemap]
 filename = 'sitemap.xml'

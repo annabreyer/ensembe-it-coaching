@@ -1,9 +1,9 @@
 ---
 title: "Veranstaltungen"
-date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/schulung-thumb.jpg"
 category: ["Gruppensession"]
+tags: ["IT-Training für Geschäftsfrauen", "IT-Training für Gründerinnen", "Frauen-Startup-IT-Coaching", "IT-Weiterbildung für selbstständige Frauen"]
 project_images: ["images/projects/schulung.jpg", "images/projects/schulung-remote.jpg"]
 ---
 
