@@ -6,6 +6,7 @@ summarylength = 25
 relativeURLs = true
 enableRobotsTXT = true
 enableEmoji = true
+removePathAccents = true
 
 [sitemap]
 filename = 'sitemap.xml'
