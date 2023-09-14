@@ -465,6 +465,29 @@ Grundsätzlich werden Ihre Daten bei Vorliegen einer Einwilligung auch auf Grund
 **(Art. 6 Abs. 1 lit. f DSGVO)** an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und 
 Geschäftspartnern gespeichert und verarbeitet.  
 
+#### Facebook Messenger Datenschutzerklärung
+Wir verwenden auf unserer Website den Instant-Messaging-Dienst Facebook Messenger. Dienstanbieter ist das amerikanische 
+Unternehmen Meta Platforms Inc. Für den europäischen Raum ist das Unternehmen Meta Platforms Ireland Limited 
+(4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) verantwortlich.
+
+##### Was ist Facebook Messenger?
+Facebook Messenger ist eine von Facebook entwickelte Chat-Nachrichtenfunktion, mit der Sie Textnachrichten, Sprach- und Videoanrufe, Fotos und andere Mediendateien an andere Facebook-Nutzer senden und empfangen können.
+Wenn Sie Facebook Messenger verwenden, werden auch personenbezogene Daten von Ihnen auf den Facebook-Servern verarbeitet. Dazu zählen neben Ihrer Telefonnummer und den Chatnachrichten unter anderem auch versendete Fotos, Videos, Profildaten, Ihre Adresse oder Ihr Standort.
+
+##### Warum verwenden wir Facebook Messenger?
+Wir wollen mit Ihnen in Kontakt bleiben und das funktioniert am besten über Nachrichtendienste wie Facebook Messenger. Zum einen, weil der Dienst einwandfrei funktioniert, zum anderen, weil Facebook immer noch eine der bekanntesten Social-Media-Plattformen ist. Der Dienst ist praktisch und ermöglicht eine unkomplizierte und schnelle Kommunikation mit Ihnen.
+
+##### Wie sicher ist der Datentransfer bei Facebook Messenger?
+Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
+Die Facebook Datenverarbeitungsbedingung, welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
+
+Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.facebook.com/about/privacy.
+
+##### Auftragsverarbeitungsvertrag (AVV) Facebook Messenger
+Wir haben im Sinne des Artikels 28 der Datenschutz-Grundverordnung (DSGVO) mit Facebook einen Auftragsverarbeitungsvertrag (AVV) abgeschlossen. Was ein AVV genau ist und vor allem was in einem AVV enthalten sein muss, können Sie in unserem allgemeinen Abschnitt „Auftragsverarbeitungsvertrag (AVV)“ nachlesen.
+Dieser Vertrag ist gesetzlich vorgeschrieben, weil Facebook in unserem Auftrag personenbezogene Daten verarbeitet. Darin wird geklärt, dass Facebook Daten, die sie von uns erhalten, nur nach unserer Weisung verarbeiten darf und die DSGVO einhalten muss. Den Link zum Auftragsverarbeitungsvertrag (AVV) finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
+
 #### WhatsApp Datenschutzerklärung
 Wir verwenden auf unserer Website den Instant-Messaging-Dienst WhatsApp. Dienstanbieter ist das amerikanische Unternehmen 
 WhatsApp Inc., ein Tochterunternehmen von Meta Platforms Inc. (bis Oktober 2021 Facebook Inc.). Für den europäischen 
@@ -510,7 +533,7 @@ Mehr über die Daten, die durch die Verwendung von WhatsApp verarbeitet werden, 
 #### Social Media Einleitung
 ***
 **Social Media Datenschutzerklärung Zusammenfassung**  
-&#x1f465; Betroffene: Besucher unseres Instagram Profils  
+&#x1f465; Betroffene: Besucher unseres Instagram Profils oder unserer Facebook Page  
 &#x1f91d; Zweck: Darstellung und Optimierung unserer Serviceleistung, Kontakt zu Besuchern, Interessenten u.a., Werbung  
 &#x1f4d3; Verarbeitete Daten: Daten wie etwa Telefonnummern, E-Mail-Adressen, Kontaktdaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.  
 Mehr Details dazu finden Sie beim jeweils eingesetzten Social-Media-Tool.  
@@ -578,6 +601,30 @@ Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Da
 Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien 
 des jeweiligen Dienstanbieters anzusehen.  
 Informationen zu speziellen Social-Media-Plattformen erfahren Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.  
+
+#### Facebook Datenschutzerklärung
+***
+**Facebook Datenschutzerklärung Zusammenfassung**  
+&#x1f465; Betroffene: Besucher unserer Facebook Seite  
+&#x1f91d; Zweck: Optimierung unserer Serviceleistung  
+&#x1f4d3; Verarbeitete Daten: Daten wie etwa Kundendaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.  
+&#x1f4c5; Speicherdauer: bis die Daten für Facebooks Zwecke nicht mehr nützlich sind  
+&#x2696;&#xfe0f; Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)  
+***
+##### Facebook Page Datenschutzerklärung
+Wir haben für unsere Website auch eine Facebook Page. Dienstanbieter ist das amerikanische Unternehmen Meta Platforms Inc. 
+Für den europäischen Raum ist das Unternehmen Meta Platforms Ireland Limited (4 Grand Canal Square, Grand Canal Harbour, 
+Dublin 2, Irland) verantwortlich.
+
+Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
+
+Die Facebook Datenverarbeitungsbedingung, welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
+
+Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.facebook.com/about/privacy.
+
 ***
 **Instagram Datenschutzerklärung Zusammenfassung**  
 &#x1f465; Betroffene: Besucher unseres Instagram Profils  
@@ -650,77 +697,120 @@ Wir haben versucht, Ihnen die wichtigsten Informationen über die Datenverarbeit
 Auf {{< newtabref  href="https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect&amp;tid=312558597" title="https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect" >}}.
 können Sie sich noch näher mit den Datenrichtlinien von Instagram auseinandersetzen.  
 
-#### Security &amp; Anti-Spam
+#### Content Delivery Networks Einleitung
 ***
-**Security &amp; Anti-Spam Datenschutzerklärung Zusammenfassung**
-  
-&#x1f465; Betroffene: Besucher der Website  
-&#x1f91d; Zweck: Cybersicherheit  
-&#x1f4d3; Verarbeitete Daten: Daten wie etwa Ihre IP-Adresse, Name oder technische Daten wie etwa Browserversion  
+##### Content Delivery Networks Datenschutzerklärung Zusammenfassung  
+👥 Betroffene: Besucher der Website  
+🤝 Zweck: Optimierung unserer Serviceleistung (um die Website schneller laden zu können)  
+📓 Verarbeitete Daten: Daten wie etwa Ihre IP-Adresse  
 Mehr Details dazu finden Sie weiter unten und den einzelnen Datenschutztexten.  
-&#x1f4c5; Speicherdauer: meisten werden die Daten solange gespeichert, bis sie zur Erfüllung der Dienstleistung nicht mehr benötigt werden  
-&#x2696;&#xfe0f; Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)</td>
+📅 Speicherdauer: meisten werden die Daten solange gespeichert, bis sie zur Erfüllung der Dienstleistung nicht mehr benötigt werden  
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)  
 ***
+##### Was ist ein Content Delivery Network?
+Wir nutzen auf unserer Website ein sogenanntes Content Delivery Network. Meistens wird ein solchen Netzwerk nur CDN genannt. Ein CDN hilft uns, unsere Website, unabhängig von Ihrem Standort, schnell und problemlos zu laden. Dabei werden auch personenbezogene Daten von Ihnen auf den Servern des eingesetzten CDN-Anbieters gespeichert, verwaltet und verarbeitet. Nachfolgend gehen wir allgemein näher auf den Dienst und dessen Datenverarbeitung ein. Genaue Informationen über den Umgang mit Ihren Daten finden Sie in der jeweiligen Datenschutzerklärung des Anbieters.
 
-#### Was ist eine Security- &amp; Anti-Spam-Software?
-Mit sogenannten Security- &amp; Anti-Spam-Softwares können Sie sich und wir uns vor diversen Spam- oder Phishing-Mails und 
-möglichen anderen Cyberattacken schützen. Unter Spam versteht man Werbemails aus einem Massenversand, die man selbst 
-nicht verlangte. Solche Mails werden auch Datenmüll genannt und können auch Kosten verursachen. Phishing-Mails sind 
-wiederum Nachrichten, die darauf abzielen, über gefälschte Nachrichten oder Websites Vertrauen aufzubauen, um an 
-persönliche Daten zu gelangen. Eine Anti-Spam-Software schützt in der Regel vor unerwünschten Spam-Nachrichten oder 
-bösartigen Mails, die etwa Viren in unser System einschleusen könnten. Wir nutzen auch allgemeine Firewall- und 
-Sicherheitssysteme, die unsere Computer vor unerwünschten Netzwerkangriffen schützen.  
+Jedes Content Delivery Network (CDN) ist ein Netzwerk regional verteilter Server, die alle über das Internet miteinander verbunden sind. Über dieses Netzwerk können Inhalte von Websites (speziell auch sehr große Dateien) auch bei großen Lastspitzen schnell und reibungslos ausgeliefert werden. Das CDN legt dafür eine Kopie unserer Website auf Ihren Servern an. Da diese Server weltweit verteilt sind, kann die Website schnell ausgeliefert werden. Die Datenübertragung zu Ihrem Browser wird folglich durch das CDN deutlich verkürzt.
 
-##### Warum verwenden wir Security- &amp; Anti-Spam-Software?
-Wir legen auf unserer Website besonders großen Wert auf Sicherheit. Schließlich geht es nicht nur um unsere, sondern vor 
-allem auch um Ihre Sicherheit. Leider gehören mittlerweile in der Welt der IT und des Internets Cyberbedrohungen 
-schon zum Alltag. Oft versuchen Hacker mit Hilfe einer Cyberattacke personenbezogene Daten aus einem IT-System zu 
-stehlen. Und daher ist ein gutes Abwehrsystem absolut notwendig. Ein Sicherheitssystem überwacht alle ein- und 
-ausgehenden Verbindungen zu unserem Netzwerk bzw. Computer. Damit wir noch größere Sicherheit vor Cyberangriffen 
-erreichen, nutzen wir neben den standardisierten Sicherheitssystemen auf unserem Computer auch noch weitere externe 
-Security-Dienste. Unerlaubter Verkehr von Daten wird dadurch besser unterbunden und so schützen wir uns vor Cyberkriminalität.  
+##### Warum verwenden wir ein Content Delivery Network für unsere Website?
+Eine schnell ladende Website ist Teil unserer Dienstleistung. Wir wissen natürlich, wie nervig es ist, wenn eine Website im Schneckentempo lädt. Meist verliert man sogar die Geduld und sucht das Weite, bevor die Website vollständig geladen ist. Das wollen wir natürlich vermeiden. Daher gehört eine schnell ladende Website ganz selbstverständlich zu unserem Websiteangebot. Mit einem Content Delivery Network wird in Ihrem Browser unsere Website deutlich schneller geladen. Besonders hilfreich ist der Einsatz des CDNs wenn Sie im Ausland sind, weil die Website von einem Server in Ihrer Nähe ausgeliefert wird.
 
-##### Welche Daten werden durch Security- &amp; Anti-Spam-Softwares verarbeitet?
-Welche Daten genau erhoben und gespeichert werden hängt natürlich vom jeweiligen Dienst ab. Wir sind allerdings stets 
-bemüht nur Programme zu verwenden, die sehr sparsam Daten erheben bzw. nur Daten speichern, die für die Erfüllung der 
-angebotenen Leistung nötig sind. Grundsätzlich kann der Dienst Daten wie beispielsweise Name, Adresse, IP-Adresse, 
-E-Mail-Adresse und technische Daten wie Browsertyp oder Browserversion speichern. Auch können etwaige Leistungs- und 
-Protokolldaten erhoben werden, um mögliche eingehende Bedrohungen rechtzeitig zu erkennen. Diese Daten werden im Rahmen 
-der Services und unter Einhaltung der geltenden Gesetze verarbeitet. Dazu zählt auch bei US-amerikanischen Anbietern 
-(über die Standardvertragsklauseln) die DSGVO. Diese Security-Dienste arbeiten in einigen Fällen auch mit Drittanbietern 
-zusammen, die unter Anweisung und in Übereinstimmung mit den Datenschutzrichtlinien und weiteren Sicherheitsmaßnahmen 
-Daten speichern und/oder verarbeiten können. Die Datenspeicherung erfolgt meist über Cookies.  
-
-##### Dauer der Datenverarbeitung
-Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben. 
-Beispielsweise speichern Security-Programme Daten bis Sie oder wir die Datenspeicherung widerrufen. Generell werden 
-personenbezogene Daten nur so lange, wie es für die Bereitstellung der Dienstleistungen unbedingt notwendig ist, 
-gespeichert. In vielen Fällen fehlen uns leider von den Anbietern präzise Informationen über die Länge der Speicherung. 
+##### Welche Daten werden verarbeitet?
+Wenn Sie eine Website bzw. die Inhalte einer Website anfordern und diese in einem CDN zwischengespeichert sind, leitet das CDN die Anforderung an den von Ihnen am nächsten gelegenen Server und dieser liefert die Inhalte aus. Content Delivery Networks sind so aufgebaut, dass JavaScript-Bibliotheken heruntergeladen werden können und auf npm- und Github-Servern gehostet werden. Alternativ können bei den meisten CDNs auch WordPress-Plugins geladen werden, wenn diese auf WordPress.org gehostet werden. Ihr Browser kann personenbezogene Daten an das von uns eingesetzte Content Delivery Network senden. Dabei handelt es sich etwa um Daten wie IP-Adresse, Browsertyp, Browserversion, welche Webseite geladen wird oder Uhrzeit und Datum des Seitenbesuchs. Diese Daten werden vom CDN gesammelt und auch gespeichert. Ob zur Datenspeicherung Cookies verwendet werden, hängt von dem eingesetzten Network ab. Bitte lesen Sie sich dafür die Datenschutztexte des jeweiligen Dienstes durch.
 
 ##### Widerspruchsrecht
-Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von Cookies bzw. Drittanbietern 
-von Security-Software zu widerrufen. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere 
-Opt-Out-Funktionen. Zum Bespiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser 
-die Cookies verwalten, deaktivieren oder löschen.  
-Da bei solchen Sicherheitsdiensten auch Cookies zum Einsatz kommen können, empfehlen wir Ihnen unsere allgemeine 
-Datenschutzerklärung über Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, 
-sollten Sie die Datenschutzerklärungen der jeweiligen Tools durchlesen.  
+Falls Sie diese Datenübertragung vollkommen unterbinden wollen, können Sie einen JavaScript-Blocker (siehe beispielsweise https://noscript.net/) auf Ihrem PC installieren. Natürlich kann dann unsere Website nicht mehr das gewohnte Service (wie beispielsweise eine schnelle Ladegeschwindigkeit) bieten.
 
 ##### Rechtsgrundlage
-Wir setzen die Sicherheitsdienste hauptsächlich auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f DSGVO) 
-an einem guten Sicherheitssystem gegen diverse Cyberangriffe ein.  
-Bestimmte Verarbeitungen, insbesondere der Einsatz von Cookies sowie die Nutzung von Sicherheitsfunktionen bedürfen 
-Ihrer Einwilligung. Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Security-Dienste verarbeitet 
-und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). 
-Die meisten von uns verwendeten Dienste setzen Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir 
-Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien 
-des jeweiligen Dienstanbieters anzusehen.  
-Informationen zu speziellen Tools erfahren Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.
+Wenn Sie eingewilligt haben, dass ein Content Delivery Network eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch ein Content Delivery Network vorkommen kann, dar.
 
-####Cloud-Dienste
+Von unserer Seite besteht zudem ein berechtigtes Interesse, ein Content Delivery Network zu verwenden, um unser Online-Service zu optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen das Tool gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
+
+Informationen zu speziellen Content Delivery Network erhalten Sie – sofern vorhanden – in den folgenden Abschnitten.
+
+#### Cloudflare Datenschutzerklärung
+***
+**Cloudflare Datenschutzerklärung Zusammenfassung**  
+👥 Betroffene: Besucher der Website  
+🤝 Zweck: Optimierung unserer Serviceleistung (um die Website schneller laden zu können)  
+📓 Verarbeitete Daten: Daten wie etwa IP-Adresse, Kontakt- und Protokollinfos, Sicherheitsfingerabdrücke und Leistungsdaten für Websites  
+Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.  
+📅 Speicherdauer: meisten werden die Daten für weniger als 24 Stunden gespeichert  
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)  
+***
+##### Was ist Cloudflare?
+Wir verwenden auf dieser Website Cloudflare der Firma Cloudflare, Inc. (101 Townsend St., San Francisco, CA 94107, USA), um unsere Webseite schneller und sicherer zu machen. Dabei verwendet Cloudflare Cookies und verarbeitet User-Daten. Cloudflare, Inc. ist eine amerikanische Firma, die ein Content Delivery Network und diverse Sicherheitsdienste anbietet. Diese Dienste befinden sich zwischen dem User und unserem Hosting-Anbieter. Was das alles genau bedeutet, versuchen wir im Folgenden genauer zu erläutern.
+
+Ein Content Delivery Network (CDN), wie es die Firma Cloudflare bereitstellt, ist nichts anderes als ein Netzwerk aus verbundenen Servern. Cloudflare hat auf der ganzen Welt solche Server verteilt, um Webseiten schneller auf Ihren Bildschirm zu bringen. Ganz einfach gesagt, legt Cloudflare Kopien unserer Webseite an und platziert sie auf ihren eigenen Servern. Wenn Sie jetzt unsere Webseite besuchen, stellt ein System der Lastenverteilung sicher, dass die größten Teile unserer Webseite von jenem Server ausgeliefert werden, der Ihnen unsere Webseite am schnellsten anzeigen kann. Die Strecke der Datenübertragung zu Ihrem Browser wird durch ein CDN deutlich verkürzt. Somit wird Ihnen der Content unserer Webseite durch Cloudflare nicht nur von unserem Hosting-Server geliefert, sondern von Servern aus der ganzen Welt. Besonders hilfreich wird der Einsatz von Cloudflare für User aus dem Ausland, da hier die Seite von einem Server in der Nähe ausgeliefert werden kann. Neben dem schnellen Ausliefern von Webseiten bietet Cloudflare auch diverse Sicherheitsdienste, wie den DDoS-Schutz oder die Web Application Firewall an.
+
+##### Warum verwenden wir Cloudflare auf unserer Website?
+Natürlich wollen wir Ihnen mit unserer Webseite das bestmögliche Service bieten. Cloudflare hilft uns dabei, unsere Webseite schneller und sicherer zu machen. Cloudflare bietet uns sowohl Web-Optimierungen als auch Sicherheitsdienste, wie DDoS-Schutz und Web-Firewall, an. Dazu gehören auch ein Reverse-Proxy und das Content-Verteilungsnetzwerk (CDN). Cloudflare blockiert Bedrohungen und begrenzt missbräuchliche Bots und Crawler, die unsere Bandbreite und Serverressourcen verschwenden. Durch das Speichern unserer Webseite auf lokalen Datenzentren und das Blockieren von Spam-Software ermöglicht Cloudflare, unsere Bandbreitnutzung etwa um 60% zu reduzieren. Das Bereitstellen von Inhalten über ein Datenzentrum in Ihrer Nähe und einiger dort durchgeführten Web-Optimierungen reduziert die durchschnittliche Ladezeit einer Webseite etwa um die Hälfte. Durch die Einstellung „I´m Under Attack Mode“ („Ich werde angegriffen“-Modus) können laut Cloudflare weitere Angriffe abgeschwächt werden, indem eine JavaScript-Rechenaufgabe angezeigt wird, die man lösen muss, bevor ein User auf eine Webseite zugreifen kann. Insgesamt wird dadurch unsere Webseite deutlich leistungsstärker und weniger anfällig auf Spam oder andere Angriffe.
+
+##### Welche Daten werden von Cloudflare verarbeitet?
+Cloudflare leitet im Allgemeinen nur jene Daten weiter, die von Webseitenbetreibern gesteuert werden. Die Inhalte werden also nicht von Cloudflare bestimmt, sondern immer vom Websitebetreiber selbst. Zudem erfasst Cloudflare unter Umständen bestimmte Informationen zur Nutzung unserer Website und verarbeitet Daten, die von uns versendet werden oder für die Cloudflare entsprechende Anweisungen erhalten hat. In den meisten Fällen erhält Cloudflare Daten wie IP-Adresse, Kontakt- und Protokollinfos, Sicherheitsfingerabdrücke und Leistungsdaten für Websites. Protokolldaten helfen Cloudflare beispielsweise dabei, neue Bedrohungen zu erkennen. So kann Cloudflare einen hohen Sicherheitsschutz für unsere Webseite gewährleisten. Cloudflare verarbeitet diese Daten im Rahmen der Services unter Einhaltung der geltenden Gesetze. Dazu zählt natürlich auch die Datenschutzgrundverordnung (DSGVO). Cloudflare arbeitet auch mit Drittanbietern zusammen. Diese dürfen personenbezogene Daten nur unter Anweisung der Firma Cloudflare und in Übereinstimmung mit den Datenschutzrichtlinien und anderer Vertraulichkeits- und Sicherheitsmaßnahmen verarbeiten. Ohne explizite Einwilligung von uns gibt Cloudflare keine personenbezogenen Daten weiter.
+
+##### Wie lange und wo werden die Daten gespeichert?
+Cloudflare speichert Ihre Informationen hauptsächlich in den USA und im Europäischen Wirtschaftsraum. Cloudflare kann die oben beschriebenen Informationen aus der ganzen Welt übertragen und darauf zugreifen. Im Allgemeinen speichert Cloudflare Daten auf User-Ebene für Domains in den Versionen Free, Pro und Business für weniger als 24 Stunden. Für Enterprise Domains, die Cloudflare Logs (früher Enterprise LogShare oder ELS) aktiviert haben, können die Daten bis zu 7 Tage gespeichert werden. Wenn allerdings IP-Adressen bei Cloudflare Sicherheitswarnungen auslösen, kann es zu Ausnahmen der oben angeführten Speicherungsdauer kommen.
+
+##### Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Cloudflare bewahrt Daten-Protokolle nur solange wie nötig auf und diese Daten werden auch in den meisten Fällen innerhalb von 24 Stunden wieder gelöscht. Cloudflare speichert auch keine personenbezogenen Daten, wie beispielsweise Ihre IP-Adresse. Es gibt allerdings Informationen, die Cloudflare als Teil seiner permanenten Protokolle auf unbestimmte Zeit speichert, um so die Gesamtleistung von Cloudflare Resolver zu verbessern und etwaige Sicherheitsrisiken zu erkennen. Welche permanenten Protokolle genau gespeichert werden, können Sie auf https://www.cloudflare.com/application/privacypolicy/ nachlesen. Alle Daten, die Cloudflare sammelt (temporär oder permanent), werden von allen personenbezogenen Daten bereinigt. Alle permanenten Protokolle werden zudem von Cloudflare anonymisiert.
+
+Cloudflare geht in ihrer Datenschutzerklärung darauf ein, dass sie für die Inhalte, die sie erhalten nicht verantwortlich sind. Wenn Sie beispielsweise bei Cloudflare anfragen, ob sie Ihre Inhalte aktualisieren oder löschen können, verweist Cloudflare grundsätzlich auf uns als Webseitenbetreiber. Sie können auch die gesamte Erfassung und Verarbeitung Ihrer Daten durch Cloudflare komplett unterbinden, indem Sie die Ausführung von Script-Code in Ihrem Browser deaktivieren oder einen Script-Blocker in Ihren Browser einbinden.
+
+##### Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Cloudflare eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Cloudflare vorkommen kann, dar.
+Von unserer Seite besteht zudem ein berechtigtes Interesse, Cloudflare zu verwenden, um unser Online-Service zu optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen Cloudflare gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
+Cloudflare verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Cloudflare von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Cloudflare, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
+Mehr Informationen zum Datenschutz bei Cloudflare finden Sie auf https://www.cloudflare.com/de-de/privacypolicy/.
+
+##### Auftragsverarbeitungsvertrag (AVV) Cloudflare
+
+Wir haben im Sinne des Artikels 28 der Datenschutz-Grundverordnung (DSGVO) mit Cloudflare einen Auftragsverarbeitungsvertrag (AVV) abgeschlossen. Was ein AVV genau ist und vor allem was in einem AVV enthalten sein muss, können Sie in unserem allgemeinen Abschnitt „Auftragsverarbeitungsvertrag (AVV)“ nachlesen.
+Dieser Vertrag ist gesetzlich vorgeschrieben, weil Cloudflare in unserem Auftrag personenbezogene Daten verarbeitet. Darin wird geklärt, dass Amazon Web Cloudflare Daten, die sie von uns erhalten, nur nach unserer Weisung verarbeiten darf und die DSGVO einhalten muss. Den Link zum Auftragsverarbeitungsvertrag (AVV) finden Sie unter https://www.cloudflare.com/de-de/cloudflare-customer-dpa/.
+
+#### jQuery CDN Datenschutzerklärung
+***
+**jQuery CDN Datenschutzerklärung Zusammenfassung**  
+👥 Betroffene: Besucher der Website  
+🤝 Zweck: Optimierung unserer Serviceleistung (um die Website schneller laden zu können)  
+📓 Verarbeitete Daten: Daten wie etwa Ihre IP-Adresse  
+Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.  
+📅 Speicherdauer: meisten werden die Daten solange gespeichert, bis sie zur Erfüllung der Dienstleistung nicht mehr benötigt werden  
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)  
+***
+##### Was ist jQuery?
+Um Ihnen unsere Website bzw. all unsere einzelnen Unterseiten (Webseiten) auf unterschiedlichen Geräten schnell und problemlos auszuliefern, nutzen wir Dienste von jQuery CDN des Unternehmens jQuery Foundation. jQuery wird über das Content Delivery Network (CDN) des amerikanischen Software-Unternehmens StackPath (LCC 2012 McKinney Ave. Suite 1100, Dallas, TX 75201, USA) verteilt. Durch diesen Dienst werden personenbezogene Daten von Ihnen gespeichert, verwaltet und verarbeitet. In dieser Datenschutzerklärung gehen wir näher darauf ein, welche Daten von Ihnen durch die Verwendung von jQuery CDN verarbeitet werden.
+
+Ein Content Delivery Network (CDN) ist ein Netzwerk regional verteilter Server, die über das Internet miteinander verbunden sind. Durch dieses Netzwerk können Inhalte, speziell sehr große Dateien, auch bei großen Lastspitzen schnell ausgeliefert werden. jQuery legt eine Kopie unserer Website auf ihren Servern an. So kann unsere Website, schnellstmöglich ausgeliefert werden. Das heißt, die Datenübertragung zu Ihrem Browser wird durch ein CDN verkürzt.
+
+##### Warum verwenden wir jQuery auf unserer Website?
+Selbstverständlich wollen wir Ihnen mit unserer Website einen umfassenden und gut funktionierenden Service bieten. Dazu zählt auch eine schnelle Website. Mit jQuery kann unsere Website bei Ihnen viel schneller geladen werden. Besonders hilfreich wird der Einsatz von jQuery für User aus dem Ausland, da hier die Seite von einem Server in der Nähe ausgeliefert werden kann.
+
+##### Welche Daten werden durch jQuery verarbeitet?
+jQuery nutzt JavaScript-Bibliotheken, um unsere Website-Inhalte zügig ausliefern zu können. Dafür lädt ein CDN-Server die nötigen Dateien. Sobald eine Verbindung zum CDN-Server aufgebaut ist, wird Ihre IP-Adresse erfasst und gespeichert. Das geschieht nur, wenn diese Daten nicht schon durch einen vergangenen Websitebesuch in Ihrem Browser gespeichert sind.
+
+In den Datenschutz-Richtlinien von StackPath wird ausdrücklich erwähnt, dass StackPath aggregierte und anonymisierte Daten von diversen Diensten (wie eben auch jQuery) für die Erweiterung der Sicherheit und für eigene Dienste benutzen. Durch diese Daten können Sie als Person allerdings nicht identifiziert werden.
+
+##### Wie lange und wo werden die Daten gespeichert?
+jQuery bzw. StackPath hat Server in verschiedenen Ländern verteilt und Ihre Daten können somit sowohl in Amerika als auch im Europäischen Wirtschaftsraum gespeichert werden. StackPath bewahrt personenbezogene Daten, die in unserem Auftrag verarbeitet werden, so lange auf, wie es für die Erbringung angebotener Dienstleistungen erforderlich ist, wie es für die Erfüllung rechtlichen Verpflichtungen, die Beilegung von Streitigkeiten und die Durchsetzung der Vereinbarungen notwendig ist.
+
+##### Widerspruchsrecht
+Sie haben immer das Recht auf Auskunft, Berichtigung und Löschung Ihrer personenbezogenen Daten. Bei Fragen können Sie auch jederzeit Verantwortliche von jQuery kontaktieren.
+
+Wenn Sie nicht wollen, dass es zu einer Datenübertragung kommt, haben Sie immer auch die Möglichkeit Java-Scriptblocker wie beispielsweise https://www.ghostery.com/ oder noscript.net zu installieren. Sie können aber auch einfach in Ihrem Browser die Ausführung von JavaScript-Codes deaktivieren. Wenn Sie sich für die Deaktivierung von JavaScript-Codes entscheiden, verändern sich auch die gewohnten Funktionen. So wird beispielsweise eine Website nicht mehr so schnell geladen.
+
+##### Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass jQuery CDN eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch jQuery CDN vorkommen kann, dar.
+Von unserer Seite besteht zudem ein berechtigtes Interesse, jQuery CDN zu verwenden, um unser Online-Service zu optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen das Tool gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
+Stackpath verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Stackpath sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Stackpath, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de.
+Die Stackpath Datenverarbeitungsbedingung (Data Protection Addendum), welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.stackpath.com/legal/data-processing-addendum.
+Mehr Informationen zum Datenschutz bei StackPath finden Sie unter https://www.stackpath.com/legal/privacy-statement und zu jQuery unter https://openjsf.org/wp-content/uploads/sites/84/2019/11/OpenJS-Foundation-Privacy-Policy-2019-11-15.pdf.
+
+#### Cloud-Dienste
 ***
 **Cloud-Dienste Datenschutzerklärung Zusammenfassung**
-  
 &#x1f465; Betroffene: Wir als Websitebetreiber und Sie als Websitebesucher  
 &#x1f91d; Zweck: Sicherheit und Datenspeicherung  
 &#x1f4d3; Verarbeitete Daten: Daten wie etwa Ihre IP-Adresse, Name oder technische Daten wie etwa Browserversion  
