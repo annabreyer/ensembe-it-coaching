@@ -52,7 +52,7 @@
           }
         }
         a.read-more{
-          color: $primary-color;
+          color: $text-color-dark;
           letter-spacing: 2px;
           @include mobile{
             transform: translateY(22px);
