@@ -28,13 +28,17 @@ name    = "Angebot"
 url     = "portfolio"
 weight  = 3
 [[menu.nav]]
+name    = "Blog"
+url     = "blog"
+weight  = 4
+[[menu.nav]]
 name    = "FAQ"
 url     = "ueber-mich/faq"
-weight  = 4
+weight  = 5
 [[menu.nav]]
 name    = "Kontakt"
 url     = "kontakt"
-weight  = 5
+weight  = 6
 
 # Site Params
 [params]
