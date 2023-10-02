@@ -280,7 +280,7 @@ Hier eine Liste möglicher Daten, die wir von Ihnen erhalten und verarbeiten:
 - Telefonnummer  
 - Geburtsdatum  
 - Zahlungsdaten (Rechnungen, Bankdaten, Zahlungshistorie etc.)  
-- Vertragsdaten ( Laufzeit, Inhalt)  
+- Vertragsdaten (Laufzeit, Inhalt)  
 - Nutzungsdaten (besuchte Websites, Zugriffsdaten ect.)  
 - Metadaten (IP-Adresse, Geräte-Informationen)  
 
@@ -391,7 +391,7 @@ DSGVO, der die Einhaltung von Datenschutz gewährleistet und Datensicherheit gar
 ***
 **Messenger &amp; Kommunikation Datenschutzerklärung Zusammenfassung**
   
-&#x1f465; Betroffene: Besucher der Website  
+&#x1f465; Betroffene: Nutzer von Messanger Diensten um mit uns zu kommunizieren
 &#x1f91d; Zweck: Kontaktanfragen und die allgemeine Kommunikation zwischen uns und Ihnen  
 &#x1f4d3; Verarbeitete Daten: Daten wie etwa Name, Adresse, E-Mailadresse, Telefonnummer, allgemeine Inhaltsdaten, gegebenenfalls IP-Adresse  
 Mehr Details dazu finden Sie bei den jeweils eingesetzten Tools.  
@@ -404,7 +404,7 @@ Wir bieten auf unserer Website verschiedene Möglichkeiten (etwa Online- bzw. Ko
 uns zu kommunizieren. Dabei werden auch Ihre Daten, soweit es für die Beantwortung Ihrer Anfrage 
 und unseren darauffolgenden Maßnahmen nötig ist, verarbeitet und gespeichert.  
 Wir nutzen neben klassischen Kommunikationsmitteln wie E-Mail, Kontaktformularen oder Telefon auch Chats bzw. Messenger. 
-Die derzeit am häufigsten verwendete Messenger-Funktion ist WhatsApp, aber es gibt natürlich speziell für Websites viele 
+Die derzeit am häufigsten verwendete Messenger-Funktion ist WhatsApp, aber es gibt natürlich viele 
 verschiedene Anbieter, die Messenger-Funktionen anbieten. Wenn Inhalte Ende zu Ende verschlüsselt sind, wird darauf in 
 den einzelnen Datenschutztexten oder in der Datenschutzerklärung des jeweiligen Anbieters hingewiesen. 
 Eine Ende-zu-Ende-Verschlüsselung bedeutet nichts anders, als dass Inhalte einer Nachricht selbst für den Anbieter 
@@ -478,11 +478,13 @@ Wenn Sie Facebook Messenger verwenden, werden auch personenbezogene Daten von Ih
 Wir wollen mit Ihnen in Kontakt bleiben und das funktioniert am besten über Nachrichtendienste wie Facebook Messenger. Zum einen, weil der Dienst einwandfrei funktioniert, zum anderen, weil Facebook immer noch eine der bekanntesten Social-Media-Plattformen ist. Der Dienst ist praktisch und ermöglicht eine unkomplizierte und schnelle Kommunikation mit Ihnen.
 
 ##### Wie sicher ist der Datentransfer bei Facebook Messenger?
-Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
-Die Facebook Datenverarbeitungsbedingung, welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
-
-Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.facebook.com/about/privacy.
+Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Facebook bzw. Meta Platforms ist aktiver Teilnehmer des 
+EU-US Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern 
+in die USA geregelt wird. Mehr Informationen dazu finden Sie auf
+{{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}  
+Zudem verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die Standardvertragsklauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: <a href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" target="_blank" rel="follow noopener" class="external">https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de</a></p>
+Die Facebook Datenverarbeitungsbedingung, welche auf die Standardvertragsklauseln verweisen, finden Sie unter {{< newtabref href="https://www.facebook.com/legal/terms/dataprocessing" title="https://www.facebook.com/legal/terms/dataprocessing" >}}
+Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf {{< newtabref href="https://www.facebook.com/about/privacy?tid=136237854" title="https://www.facebook.com/about/privacy" >}}
 
 ##### Auftragsverarbeitungsvertrag (AVV) Facebook Messenger
 Wir haben im Sinne des Artikels 28 der Datenschutz-Grundverordnung (DSGVO) mit Facebook einen Auftragsverarbeitungsvertrag (AVV) abgeschlossen. Was ein AVV genau ist und vor allem was in einem AVV enthalten sein muss, können Sie in unserem allgemeinen Abschnitt „Auftragsverarbeitungsvertrag (AVV)“ nachlesen.
@@ -511,25 +513,13 @@ Wir wollen mit Ihnen in Kontakt bleiben und das funktioniert am besten per Whats
 funktioniert, zum anderen weil WhatsApp immer noch das meist verwendete Instant-Messaging-Tool weltweit ist. Der Dienst 
 ist praktisch und ermöglicht eine unkomplizierte und schnelle Kommunikation mit Ihnen.  
 ##### Wie sicher ist der Datentransfer bei WhatsApp?
-WhatsApp verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen 
-Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen 
-Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.  
+WhatsApp verarbeitet Daten von Ihnen u.a. auch in den USA. WhatsApp bzw. Meta Platforms ist aktiver Teilnehmer des
+EU-US Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern
+in die USA geregelt wird. Mehr Informationen dazu finden Sie auf
+{{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}
+Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf 
+{{< newtabref href="https://www.whatsapp.com/legal/privacy-policy-eea" title="https://www.whatsapp.com/legal/privacy-policy-eea" >}}
 
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, 
-Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet WhatsApp sogenannte 
-Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) 
-sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den 
-europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert 
-und dort gespeichert werden. Durch diese Klauseln verpflichtet sich WhatsApp, bei der Verarbeitung Ihrer relevanten 
-Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und 
-verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss 
-und die entsprechenden Standardvertragsklauseln u.a. hier: {{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
-Informationen zur Datenübermittlung bei WhatsApp, welche den Standardvertragsklauseln entsprechen, finden Sie unter
-{{< newtabref  href="https://www.whatsapp.com/legal/business-data-transfer-addendum-20210927" title="https://www.whatsapp.com/legal/business-data-transfer-addendum-20210927" >}}  
-Wir hoffen, wir haben Ihnen die wichtigsten Informationen über die Nutzung und Datenverarbeitung durch WhatsApp nähergebracht. 
-Mehr über die Daten, die durch die Verwendung von WhatsApp verarbeitet werden, erfahren Sie in der Privacy Policy auf
-{{< newtabref  href="https://www.whatsapp.com/privacy?tid=312558597" title="https://www.whatsapp.com/privacy" >}} 
-.  
 #### Social Media Einleitung
 ***
 **Social Media Datenschutzerklärung Zusammenfassung**  
@@ -602,7 +592,7 @@ Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datensch
 des jeweiligen Dienstanbieters anzusehen.  
 Informationen zu speziellen Social-Media-Plattformen erfahren Sie &#8211; sofern vorhanden &#8211; in den folgenden Abschnitten.  
 
-#### Facebook Datenschutzerklärung
+#### Facebook Datenschutzerklärung 
 ***
 **Facebook Datenschutzerklärung Zusammenfassung**  
 &#x1f465; Betroffene: Besucher unserer Facebook Seite  
@@ -616,14 +606,22 @@ Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
 Wir haben für unsere Website auch eine Facebook Page. Dienstanbieter ist das amerikanische Unternehmen Meta Platforms Inc. 
 Für den europäischen Raum ist das Unternehmen Meta Platforms Ireland Limited (4 Grand Canal Square, Grand Canal Harbour, 
 Dublin 2, Irland) verantwortlich.
-
-Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
-
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
-
-Die Facebook Datenverarbeitungsbedingung, welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.facebook.com/legal/terms/dataprocessing.
-
-Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.facebook.com/about/privacy.
+Facebook verarbeitet Daten von Ihnen u.a. auch in den USA. Facebook bzw. Meta Platforms ist aktiver Teilnehmer des
+EU-US Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern
+in die USA geregelt wird. Mehr Informationen dazu finden Sie auf
+{{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}  
+Zudem verwendet Facebook sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln 
+(Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, 
+dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) 
+überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die Standardvertragsklauseln 
+verpflichtet sich Facebook, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, 
+selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem 
+Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier:
+{{< newtabref href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" >}}  
+Die Facebook Datenverarbeitungsbedingung, welche auf die Standardvertragsklauseln verweisen, finden Sie unter 
+{{< newtabref href="https://www.facebook.com/legal/terms/dataprocessing" title="https://www.facebook.com/legal/terms/dataprocessing" >}}  
+Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf 
+{{< newtabref href="https://www.facebook.com/about/privacy?tid=136237854" title="https://www.facebook.com/about/privacy" >}}  
 
 ***
 **Instagram Datenschutzerklärung Zusammenfassung**  
@@ -675,27 +673,29 @@ In den Instagram-Einstellungen können Sie Ihre Daten verwalten. Wenn Sie Ihre D
 müssen Sie Ihr Instagram-Konto dauerhaft löschen.  
 
 ##### Rechtsgrundlage
-Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert 
-werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung **(Art. 6 Abs. 1 lit. a DSGVO)**. 
-Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses **(Art. 6 Abs. 1 lit. f DSGVO)** an 
-einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. 
-Wir setzen die eingebundene Social-Media-Elemente gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. 
-Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. 
-Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder 
-die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.  
-Instagram bzw. Facebook verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen 
-Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen 
-Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.  
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, 
-Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Facebook von der 
-EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Facebook, 
-das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren 
-auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier:
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu" >}}.
-  
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden 
+können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung <strong>(Art. 6 Abs. 1 lit. a DSGVO)</strong>. 
+Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses <strong>(Art. 6 Abs. 1 lit. f DSGVO)</strong> 
+an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. 
+Wir setzen die eingebundene Social-Media-Elemente gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Die meisten 
+Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren 
+Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen 
+Dienstanbieters anzusehen.  
+Instagram verarbeitet Daten von Ihnen u.a. auch in den USA. Instagram bzw. Meta Platforms ist aktiver Teilnehmer des 
+EU-US Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern 
+in die USA geregelt wird. Mehr Informationen dazu finden Sie auf
+{{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}.  
+Zudem verwendet Instagram sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln 
+(Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, 
+dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) 
+überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die Standardvertragsklauseln 
+verpflichtet sich Instagram, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, 
+selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem 
+Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln
+{{< newtabref href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" >}}.  
 Wir haben versucht, Ihnen die wichtigsten Informationen über die Datenverarbeitung durch Instagram näherzubringen. 
-Auf {{< newtabref  href="https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect&amp;tid=312558597" title="https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect" >}}.
-können Sie sich noch näher mit den Datenrichtlinien von Instagram auseinandersetzen.  
+Auf {{< newtabref href="https://privacycenter.instagram.com/policy/" title="https://privacycenter.instagram.com/policy/" >}} 
+können Sie sich noch näher mit den Datenrichtlinien von Instagram auseinandersetzen.
 
 #### Content Delivery Networks Einleitung
 ***
@@ -761,7 +761,8 @@ Cloudflare geht in ihrer Datenschutzerklärung darauf ein, dass sie für die Inh
 Wenn Sie eingewilligt haben, dass Cloudflare eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Cloudflare vorkommen kann, dar.
 Von unserer Seite besteht zudem ein berechtigtes Interesse, Cloudflare zu verwenden, um unser Online-Service zu optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen Cloudflare gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
 Cloudflare verarbeitet Daten u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Cloudflare von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Cloudflare, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Cloudflare von der EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Cloudflare, das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. 
+Sie finden den Beschluss sowie die Klauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
 Mehr Informationen zum Datenschutz bei Cloudflare finden Sie auf https://www.cloudflare.com/de-de/privacypolicy/.
 
 ##### Auftragsverarbeitungsvertrag (AVV) Cloudflare
@@ -804,7 +805,7 @@ Wenn Sie nicht wollen, dass es zu einer Datenübertragung kommt, haben Sie immer
 Wenn Sie eingewilligt haben, dass jQuery CDN eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch jQuery CDN vorkommen kann, dar.
 Von unserer Seite besteht zudem ein berechtigtes Interesse, jQuery CDN zu verwenden, um unser Online-Service zu optimieren und sicherer zu machen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen das Tool gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben.
 Stackpath verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Stackpath sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Stackpath, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de.
+Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Stackpath sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Stackpath, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de.  
 Die Stackpath Datenverarbeitungsbedingung (Data Protection Addendum), welche den Standardvertragsklauseln entspricht, finden Sie unter https://www.stackpath.com/legal/data-processing-addendum.
 Mehr Informationen zum Datenschutz bei StackPath finden Sie unter https://www.stackpath.com/legal/privacy-statement und zu jQuery unter https://openjsf.org/wp-content/uploads/sites/84/2019/11/OpenJS-Foundation-Privacy-Policy-2019-11-15.pdf.
 
@@ -887,31 +888,28 @@ Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergab
 EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Apple, 
 das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren 
 auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier:
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
+{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}  
 Mehr über die Daten, die durch die Verwendung von Apple iCloud verarbeitet werden, erfahren Sie in der Privacy Policy auf
-{{< newtabref  href="https://www.apple.com/legal/privacy/de-ww/" title="https://www.apple.com/legal/privacy/de-ww/" >}}
+{{< newtabref  href="https://www.apple.com/legal/privacy/de-ww/" title="https://www.apple.com/legal/privacy/de-ww/" >}}  
  
 #### OneDrive Datenschutzerklärung
 Wir nutzen für unser Business OneDrive, das ist ein Filehosting-Dienst von Microsoft. Dienstanbieter ist das 
 amerikanische Unternehmen Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.  
-Microsoft verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen 
-Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen 
-Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.  
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, 
-Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Microsoft sogenannte 
-Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) 
-sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den 
-europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert 
-und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Microsoft, bei der Verarbeitung Ihrer relevanten 
-Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und 
-verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss 
-und die entsprechenden Standardvertragsklauseln u.a. hier:
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
-  
-Mehr Informationen zu den Standardvertragsklauseln bei Microsoft finden Sie unter
-{{< newtabref  href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" title="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" >}} 
-Mehr über die Daten, die durch die Verwendung von Microsoft verarbeitet werden, erfahren Sie in der Datenschutzerklärung 
-auf {{< newtabref  href="https://privacy.microsoft.com/de-de/privacystatement" title="https://privacy.microsoft.com/de-de/privacystatement" >}}
+Microsoft verarbeitet Daten von Ihnen u.a. auch in den USA. OneDrive bzw. Microsoft ist aktiver Teilnehmer des EU-US 
+Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern in die USA 
+geregelt wird. Mehr Informationen dazu finden Sie auf {{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}
+Zudem verwendet Microsoft sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln 
+(Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, 
+dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer 
+(wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die 
+Standardvertragsklauseln verpflichtet sich Microsoft, bei der Verarbeitung Ihrer relevanten Daten, das europäische 
+Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. 
+Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden 
+Standardvertragsklauseln u.a. hier: {{< newtabref href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" >}}  
+Mehr Informationen zu den Standardvertragsklauseln bei Microsoft finden Sie unter {{< newtabref href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" title="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" >}}  
+Mehr über die Daten, die durch die Verwendung von OneDrive verarbeitet werden, erfahren Sie in der Datenschutzerklärung auf
+{{< newtabref href="https://privacy.microsoft.com/de-de/privacystatement?tid=136238139" title="https://privacy.microsoft.com/de-de/privacystatement" >}}
+
 
 #### Videokonferenzen &amp; Streaming Einleitung
 ***  
@@ -984,33 +982,31 @@ Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise
 Durch diese Klauseln verpflichtet sich Jitsi Meet, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, 
 selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem 
 Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier:
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
+{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}  
 Weitere Informationen über die Standardvertragsklauseln bei Jitsi Meet erfahren unter
-{{< newtabref  href="https://www.8x8.com/terms-and-conditions/privacy-policy" title="https://www.8x8.com/terms-and-conditions/privacy-policy" >}}
+{{< newtabref  href="https://www.8x8.com/terms-and-conditions/privacy-policy" title="https://www.8x8.com/terms-and-conditions/privacy-policy" >}}  
 Mehr über die Daten, die durch die Verwendung von Jitsi Meet verarbeitet werden, erfahren Sie in der Datenschutzerklärung auf
 {{< newtabref  href="https://jitsi.org/meet-jit-si-privacy/" title="https://jitsi.org/meet-jit-si-privacy/" >}}
-bzw. auf {{< newtabref  href="https://www.8x8.com/terms-and-conditions/privacy-policy" title="https://www.8x8.com/terms-and-conditions/privacy-policy" >}}
+bzw. auf {{< newtabref  href="https://www.8x8.com/terms-and-conditions/privacy-policy" title="https://www.8x8.com/terms-and-conditions/privacy-policy" >}}  
 
 #### Microsoft Teams Datenschutzerklärung
 Wir verwenden auf unserer Website Microsoft Teams, ein Dienst für Online-Meetings und Videokonferenzen. Dienstanbieter 
 ist das amerikanische Unternehmen Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.  
-Microsoft verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen 
-Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen 
-Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.  
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, 
-Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Microsoft sogenannte 
-Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) 
-sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen 
-Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort 
-gespeichert werden. Durch diese Klauseln verpflichtet sich Microsoft, bei der Verarbeitung Ihrer relevanten Daten, 
-das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet 
-werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die 
-entsprechenden Standardvertragsklauseln u.a. hier: 
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
-Mehr Informationen zu den Standardvertragsklauseln bei Microsoft finden Sie unter 
-{{< newtabref  href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" title="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" >}}
-Mehr über die Daten, die durch die Verwendung von Microsoft verarbeitet werden, erfahren Sie in der Datenschutzerklärung auf
-{{< newtabref  href="https://privacy.microsoft.com/de-de/privacystatement" title="https://privacy.microsoft.com/de-de/privacystatement" >}}
+Microsoft verarbeitet Daten von Ihnen u.a. auch in den USA. OneDrive bzw. Microsoft ist aktiver Teilnehmer des EU-US
+Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern in die USA
+geregelt wird. Mehr Informationen dazu finden Sie auf {{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}
+Zudem verwendet Microsoft sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln
+(Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen,
+dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer
+(wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die
+Standardvertragsklauseln verpflichtet sich Microsoft, bei der Verarbeitung Ihrer relevanten Daten, das europäische
+Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden.
+Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden
+Standardvertragsklauseln u.a. hier: {{< newtabref href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" >}}  
+Mehr Informationen zu den Standardvertragsklauseln bei Microsoft finden Sie unter {{< newtabref href="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" title="https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses" >}}
+Mehr über die Daten, die durch die Verwendung von OneDrive verarbeitet werden, erfahren Sie in der Datenschutzerklärung auf
+{{< newtabref href="https://privacy.microsoft.com/de-de/privacystatement?tid=136238139" title="https://privacy.microsoft.com/de-de/privacystatement" >}}
+
 
 #### TeamViewer Datenschutzerklärung
 Wir verwenden auf unserer Website TeamViewer, ein Dienst für Webkonferenzen und Fernwartungen. Dienstanbieter ist das 
@@ -1179,7 +1175,7 @@ Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergab
 EU-Kommission genehmigte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Diese Klauseln verpflichten Calendly, 
 das EU-Datenschutzniveau bei der Verarbeitung relevanter Daten auch außerhalb der EU einzuhalten. Diese Klauseln basieren 
 auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss sowie die Klauseln u.a. hier: 
-{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}
+{{< newtabref  href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/" >}}  
 Mehr über die Daten, die durch die Verwendung von Calendly verarbeitet werden, erfahren Sie in der Datenschutzerklärung auf
 {{< newtabref  href="https://calendly.com/privacy?tid=312558597" title="https://calendly.com/privacy" >}}
 #### Auftragsverarbeitungsvertrag (AVV) Calendly
