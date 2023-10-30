@@ -42,7 +42,7 @@ In der folgenden Datenschutzerklärung geben wir Ihnen transparente Informatione
 Vorschriften, also den Rechtsgrundlagen der Datenschutz-Grundverordnung, die uns ermöglichen, personenbezogene Daten zu verarbeiten.  
 Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES 
 vom 27. April 2016. Diese Datenschutz-Grundverordnung der EU können Sie selbstverständlich online auf EUR-Lex, 
-dem Zugang zum EU-Recht, unter {{< newtabref  href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679" title="https://eur-lex.europa.eu" >}}.
+dem Zugang zum EU-Recht, unter {{< newtabref href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679" title="https://eur-lex.europa.eu" >}}.
 Wir verarbeiten Ihre Daten nur, wenn mindestens eine der folgenden Bedingungen zutrifft:
 
 1. **Einwilligung** (Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.
@@ -123,23 +123,28 @@ Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
 **Adresse**: Hintere Bleiche 34, 55116 Mainz  
 **Telefonnr.**: 061 31/208 22 26  
 **E-Mail-Adresse**: poststelle@datenschutz.rlp.de  
-**Website**: {{< newtabref  href="https://www.datenschutz.rlp.de/de/startseite/?tid=312558597" title="https://www.datenschutz.rlp.de" >}}
+**Website**: {{< newtabref href="https://www.datenschutz.rlp.de/de/startseite/?tid=312558597" title="https://www.datenschutz.rlp.de" >}}
 
   
 #### Datenübertragung in Drittländer
-Wir übertragen oder verarbeiten Daten nur dann in Länder außerhalb der EU (Drittländer), wenn Sie dieser Verarbeitung zustimmen, 
-dies gesetzlich vorgeschrieben ist oder vertraglich notwendig und in jedem Fall nur soweit dies generell erlaubt ist. 
-Ihre Zustimmung ist in den meisten Fällen der wichtigste Grund, dass wir Daten in Drittländern verarbeiten lassen. 
-Die Verarbeitung personenbezogener Daten in Drittländern wie den USA, wo viele Softwarehersteller Dienstleistungen anbieten 
-und Ihre Serverstandorte haben, kann bedeuten, dass personenbezogene Daten auf unerwartete Weise verarbeitet und gespeichert werden.  
-Wir weisen ausdrücklich darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes 
-Schutzniveau für den Datentransfer in die USA besteht. Die Datenverarbeitung durch US-Dienste (wie beispielsweise Google Analytics) 
-kann dazu führen, dass gegebenenfalls Daten nicht anonymisiert verarbeitet und gespeichert werden. 
-Ferner können gegebenenfalls US-amerikanische staatliche Behörden Zugriff auf einzelne Daten nehmen. 
-Zudem kann es vorkommen, dass erhobene Daten mit Daten aus anderen Diensten desselben Anbieters, sofern Sie ein 
-entsprechendes Nutzerkonto haben, verknüpft werden. Nach Möglichkeit versuchen wir Serverstandorte innerhalb der EU zu 
-nutzen, sofern das angeboten wird.  
-Wir informieren Sie an den passenden Stellen dieser Datenschutzerklärung genauer über Datenübertragung in Drittländer, sofern diese zutrifft.
+Wir übertragen oder verarbeiten Daten nur dann in Länder außerhalb des Geltungsbereichs der DSGVO (Drittländer), wenn 
+Sie in diese Verarbeitung einwilligen oder eine sonstige gesetzliche Erlaubnis besteht. Dies trifft insbesondere zu, 
+wenn die Verarbeitung gesetzlich vorgeschrieben oder zur Erfüllung eines Vertragsverhältnisses notwendig und in jedem 
+Fall nur soweit dies generell erlaubt ist. Ihre Zustimmung ist in den meisten Fällen der wichtigste Grund, dass wir 
+Daten in Drittländern verarbeiten lassen. Die Verarbeitung personenbezogener Daten in Drittländern wie den USA, wo 
+viele Softwarehersteller Dienstleistungen anbieten und Ihre Serverstandorte haben, kann bedeuten, dass personenbezogene 
+Daten auf unerwartete Weise verarbeitet und gespeichert werden.
+Wir weisen ausdrücklich darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit nur dann ein angemessenes 
+Schutzniveau für den Datentransfer in die USA besteht, wenn ein US- Unternehmen, das personenbezogene Daten von EU-Bürgern 
+in den USA verarbeitet, aktiver Teilnehmer des EU-US Data Privacy Frameworks ist. Mehr Informationen dazu finden Sie 
+unter: {{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}
+Die Datenverarbeitung durch US-Dienste, die nicht aktive Teilnehmer des EU-US Data Privacy Frameworks sind, kann dazu 
+führen, dass gegebenenfalls Daten nicht anonymisiert verarbeitet und gespeichert werden. Ferner können gegebenenfalls 
+US-amerikanische staatliche Behörden Zugriff auf einzelne Daten nehmen. Zudem kann es vorkommen, dass erhobene Daten mit 
+Daten aus anderen Diensten desselben Anbieters, sofern Sie ein entsprechendes Nutzerkonto haben, verknüpft werden. 
+Nach Möglichkeit versuchen wir Serverstandorte innerhalb der EU zu nutzen, sofern das angeboten wird.
+Wir informieren Sie an den passenden Stellen dieser Datenschutzerklärung genauer über Datenübertragung in Drittländer, 
+sofern diese zutrifft.
 
 #### Sicherheit der Datenverarbeitung
 Um personenbezogene Daten zu schützen, haben wir sowohl technische als auch organisatorische Maßnahmen umgesetzt. Wo es 
@@ -517,8 +522,20 @@ WhatsApp verarbeitet Daten von Ihnen u.a. auch in den USA. WhatsApp bzw. Meta Pl
 EU-US Data Privacy Frameworks, wodurch der korrekte und sichere Datentransfer personenbezogener Daten von EU-Bürgern
 in die USA geregelt wird. Mehr Informationen dazu finden Sie auf
 {{< newtabref href="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" title="https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en" >}}
-Mehr über die Daten, die durch die Verwendung von Facebook verarbeitet werden, erfahren Sie in der Privacy Policy auf 
-{{< newtabref href="https://www.whatsapp.com/legal/privacy-policy-eea" title="https://www.whatsapp.com/legal/privacy-policy-eea" >}}
+Zudem verwendet WhatsApp sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln 
+(Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, 
+dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise 
+in die USA) überliefert und dort gespeichert werden. Durch das EU-US Data Privacy Framework und durch die 
+Standardvertragsklauseln verpflichtet sich WhatsApp, bei der Verarbeitung Ihrer relevanten Daten, das europäische 
+Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. 
+Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden 
+Standardvertragsklauseln u.a. hier: {{< newtabref href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" title="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de" >}}.
+Informationen zur Datenübermittlung bei WhatsApp, welche den Standardvertragsklauseln entsprechen, finden Sie unter
+{{< newtabref href="https://www.whatsapp.com/legal/business-data-transfer-addendum-20210927" title="https://www.whatsapp.com/legal/business-data-transfer-addendum-20210927" >}}
+
+Wir hoffen, wir haben Ihnen die wichtigsten Informationen über die Nutzung und Datenverarbeitung durch WhatsApp nähergebracht. 
+Mehr über die Daten, die durch die Verwendung von WhatsApp verarbeitet werden, erfahren Sie in der Privacy Policy auf
+{{< newtabref href="https://www.whatsapp.com/privacy" title="https://www.whatsapp.com/privacy" >}}."
 
 #### Social Media Einleitung
 ***
