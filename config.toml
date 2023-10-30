@@ -45,7 +45,7 @@ weight  = 6
 
 # Site Params
 [params]
-logo = "images/logo-header.svg"
+logo = "images/logo-header.png"
 dateFormat = "26 FEB 1994"
 # Meta data
 description = "Ensemble IT Coaching | IT und EDV Coaching von Frau ♀︎ für Frauen* ⚧"
