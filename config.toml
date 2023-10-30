@@ -127,6 +127,15 @@ url  = "ueber-mich/faq"
 name = "Kontakt"
 url  = "kontakt"
 # Footer Social Media
+[params.footer.social]
+title   = "Social Media"
+[[params.footer.social.link]]
+[[params.footer.social.link]]
+name = "WhatsApp"
+url  = "https://wa.me/message/LFBDZ3VWY5FMO1"
+[[params.footer.social.link]]
+name = "Instagram"
+url  = "https://www.instagram.com/ensemble_it_coaching/"
 [params.footer.legal]
 title   = "Legales"
 [[params.footer.legal.link]]
