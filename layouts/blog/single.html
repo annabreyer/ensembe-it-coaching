@@ -1,20 +1,26 @@
 {{ define "main" }}
 
 <section class="site-blog details">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <article class="site-blog-details">
-          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> von <span>{{ .Params.author }}</span></p>
-          <h2 class="blog-title">{{ .Title | safeHTML }}</h2>
-          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
-            <span class="image-author">{{ .Params.feature_image_author | safeHTML }}</span>
-          {{ .Content | safeHTML }}
-            <img class="feature-image" src="{{ .Params.image | absURL }}" alt="blog-feature-image">
-        </article>
-      </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <article class="site-blog-details">
+                    <p><span>{{ .PublishDate.Format "2 January 2006" }}</span> von <span>{{ .Params.author }}</span></p>
+                    <h2 class="blog-title">{{ .Title | safeHTML }}</h2>
+                    {{ if isset .Params "feature_image" }}
+                    <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
+                    {{ end }}
+                    <span class="image-author">{{ .Params.feature_image_author | safeHTML }}</span>
+
+                    {{ .Content | safeHTML }}
+                    {{ if isset .Params "show_image_in_blog_post" }}
+                        <img class="feature-image" src="{{ .Params.image | absURL }}" alt="blog-feature-image">
+                    {{ end }}
+
+                </article>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 {{ partial "call-to-action.html" . }}
