@@ -48,7 +48,8 @@ Daher lösen wir die Probleme gemeinsam.
 #### Preis
 
 Mein Preis ist solidarisch. Eine Stunde meiner Zeit ist genauso viel wert wie eine Stunde Deiner Zeit. Ich berechne Dir 
-den gleichen Stundensatz, den Du Deinen Kundinnen* berechnest.
+den gleichen Stundensatz, den Du auch verdienst.  
+[Solidarische Bezahlung](/blog/solidarische-bezahlung)
 
 ![stars](/images/stars.svg)
 
