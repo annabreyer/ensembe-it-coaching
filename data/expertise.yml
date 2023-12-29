@@ -1,22 +1,24 @@
 enable: true
-heading: "Expertise"
+heading: "Ausbildung und Erfahrung"
 subtext: "Diese Aufzählung ist nicht erschöpfend."
 counter_item:
-  - name: "Präsentationsprogramme"
-    list: "MS Powerpoint, Keynote"
-  - name: "Kalkulationsprogramme"
-    list: "MS Excel, Numbers"
-  - name: "Datenbankmanagementsysteme"
-    list: MS Access, MySQL
-  - name: E-Mail-Programme
-    list: Outlook, Thunderbird, Spark, Mail
-  - name: Betriebssysteme
-    list: Mac OS, Windows
-  - name: Programmiersprachen
-    list: PHP, HTML, CSS, JavaScript
-  - name: Textverarbeitung
-    list: MS Word, Pages
-  - name: Online meeting
-    list: Zoom, MS Teams, Jitsi, Google Meet
-  - name: Anderes
-    list: Cloud Dienste, iOS (iPhone), Trello, Passwortmanager
+  - year: "laufend"
+    diploma: "Expertin Digitale Strategie - Schwerpunkt Webarchitektur, EQR Niveau 7 (Equiv. Master), Arbeitsministerium, Frankreich"
+  - year: "2018-2020"
+    diploma: "Lead Entwicklerin, 5aSec (Reinigung Franchise), Paris, Frankreich"
+  - year: "2018-2019"
+    diploma: "PHP Entwicklerin, SnapEvent (Event Management), Paris, Frankreich"
+  - year: "2015-2018"
+    diploma: "PHP Programmiererin, Unilend (FinTech), Paris, Frankreich"
+  - year: "2015"
+    diploma: "Software Designerin und Entwicklerin, EQR Niveau 6 (equiv. Bachelor), Arbeitsministerium, Frankreich"
+  - year: "2011 - 2015"
+    diploma: "Internationaler Projektmanagerin, Bilendi Research Servicces, Paris, Frankreich"
+  - year: "2009"
+    diploma: "Master of Science in Global Management, NEOMA Business School Rouen, Frankreich"
+  - year: "2007"
+    diploma: "Magister Internationaler Handel, IHK Evreux, Frankreich"
+  - year: "2003 - 2007"
+    diploma: "Koordination von multi-site, preklinischen , toxikologische Studien, Citoxlab, Evreux, Franrkeich"
+  - year: "2003"
+    diploma: "Kauffrau im Groß- und Aussenhandel, IHK Wiesbaden"

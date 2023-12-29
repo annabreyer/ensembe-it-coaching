@@ -43,6 +43,22 @@
 
 {{ partial "expertise.html" . }}
 
+
+{{ if .Content}}
+<section class="site-single-details">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <article class="site-about-details">
+                    {{ .Content | safeHTML }}
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}
+
 {{ partial "call-to-action.html" . }}
 
 {{ end }}

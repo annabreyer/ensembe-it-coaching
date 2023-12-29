@@ -19,5 +19,22 @@ Bachelor in Software Design gemacht.
 Durch diese Kombination kenne ich sowohl die Anwender- als auch die Entwicklerseite, was mir eine einzigartige 
 Perspektive gibt, um Probleme mit Computern und Software zu lösen."
 person_image: images/about/AnnaBreyer.jpg
-
 ---
+## IT Kenntnisse 
+Präsentationsprogramme: MS Powerpoint, Keynote, Canva  
+
+Kalkulationsprogramme: MS Excel, Numbers
+
+Datenbankmanagementsysteme: MS Access, MySQL
+
+E-Mail-Programme: Outlook, Thunderbird, Spark, Mail
+
+Betriebssysteme: Mac OS, Windows
+
+Programmiersprachen: PHP, HTML, CSS, JavaScript
+
+Textverarbeitung: MS Word, Pages
+
+Online meeting: Zoom, MS Teams, Jitsi, Google Meet
+
+Anderes: Cloud Dienste, iOS (iPhone), Trello, Passwortmanager
