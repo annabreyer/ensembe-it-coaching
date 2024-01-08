@@ -24,7 +24,7 @@ Facebook, Netflix oder anderem einzuloggen.
 
 Dafür gibt es eine Webseite, die von mehreren Sicherheitsexperten gebaut und instandgehalten wird.
 
-https://haveibeenpwned.com/
+{{< newtabref href="https://haveibeenpwned.com/" title="https://haveibeenpwned.com/" >}}
 
 Dort kannst Du Deine E-Mail-Adresse überprüfen und Dich anmelden, um informiert zu werden, sobald Deine E-Mail-Adresse in einem Datenleck auftaucht.
 
@@ -60,12 +60,11 @@ Es gibt jede Menge Testberichte zu dem Thema, im Endeffekt hängt viel davon ab 
 -	Soll er auf verschiedenen Betriebssystemen laufen (damit fällt z.B. der von Apple raus)
 
 Mit den folgenden Passwortmanagern kannst du wenig falsch machen.
-https://1password.com/de  
-https://www.dashlane.com/de  
-https://bitwarden.com/  
-http://www.safe-in-cloud.com/en/index.html  
-https://nordpass.com/password-managers/  
-
+{{< newtabref href="https://1password.com/de" title="1Password" >}}
+{{< newtabref href="https://www.dashlane.com/de" title="Dashlane" >}}
+{{< newtabref href="https://bitwarden.com/" title="Bitwarden" >}}
+{{< newtabref href="http://www.safe-in-cloud.com/en/index.html" title="SafeInCloud" >}}
+{{< newtabref href="https://nordpass.com/password-managers/ " title="Nordpass" >}}
 
 #### Wie erstelle ich ein komplexes Passwort, dass ich mir merken kann?
 
@@ -84,13 +83,14 @@ Einfacher zu merken, oder?
 #### Und warum speichere ich nicht einfach meine Passwörter in meinem Browser?
 
 Das ist keine gute Idee, denn da sind sie nicht sicher geschützt. Mehr dazu kannst du hier lesen.  
-https://www.kaspersky.de/blog/how-to-store-passwords-securely/30389/
+{{< newtabref href="https://www.kaspersky.de/blog/how-to-store-passwords-securely/30389/" title="https://www.kaspersky.de/blog/how-to-store-passwords-securely/30389/" >}}
+
 
 #### Und warum reduziere ich nicht meine Passwörter in dem ich "Einloggen mit" verwende?
 
 Mit dieser Option sparst Du Zeit, und sie ist praktisch. Aber Du machst Dich dadurch auch angreifbarer und
-teilst mehr Daten mit diesen Diensten. Mehr dazu kannst du hier lesen.  
-https://www.onlinesicherheit.gv.at/Services/News/Social-Login.html
+teilst mehr Daten mit diesen Diensten. Mehr dazu kannst du hier lesen.
+{{< newtabref href="https://www.onlinesicherheit.gv.at/Services/News/Social-Login.html" title="https://www.onlinesicherheit.gv.at/Services/News/Social-Login.html" >}}
 
 
 ### Sicherheitsstufen
