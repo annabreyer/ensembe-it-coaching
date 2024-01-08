@@ -95,7 +95,7 @@ teilst mehr Daten mit diesen Diensten. Mehr dazu kannst du hier lesen.
 
 ### Sicherheitsstufen
 
-Es gibt verschieden Stufen von Sicherheit, die ein Konto braucht, und das hängt damit zusammen welche persönlichen Datendarin gespeichert sind.
+Es gibt verschieden Stufen von Sicherheit, die ein Konto braucht, und das hängt damit zusammen welche persönlichen Daten darin gespeichert sind.
 
 #### Höchste Sicherheitsstufe
 
