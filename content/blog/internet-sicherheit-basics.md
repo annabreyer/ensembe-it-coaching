@@ -60,11 +60,11 @@ Es gibt jede Menge Testberichte zu dem Thema, im Endeffekt hängt viel davon ab 
 -	Soll er auf verschiedenen Betriebssystemen laufen (damit fällt z.B. der von Apple raus)
 
 Mit den folgenden Passwortmanagern kannst du wenig falsch machen.
-https://1password.com/de
-https://www.dashlane.com/de
-https://bitwarden.com/
-http://www.safe-in-cloud.com/en/index.html
-https://nordpass.com/password-managers/
+https://1password.com/de  
+https://www.dashlane.com/de  
+https://bitwarden.com/  
+http://www.safe-in-cloud.com/en/index.html  
+https://nordpass.com/password-managers/  
 
 
 #### Wie erstelle ich ein komplexes Passwort, dass ich mir merken kann?
